@@ -47,3 +47,5 @@ Find the recordings of the Friday main sessions in our [YouTube playlist](https:
 The participants followed five learning documents that aimed to cover the most important topics around DAOs and provided further readings into the topic.
 
 Those session documents are preserved in this repository to be publicly available to everyone interested.
+
+The learning circle itself is an event stretched over a 4-5 weeks period. Every week includes a session document that cover the topic of this session. We have collected the documents in [these folders](/session-documents/2021).
