@@ -601,3 +601,6 @@ Through nesting, circles gradually integrate related activities, so there is a h
 * [A very brief introduction to sociocracy](https://medium.com/@Harri_Kaloudis/a-brief-introduction-to-sociocracy-a0770f220937) by Harri Kaloudis
 * [Sociocracy 3.0](https://sociocracy30.org/)
 * [Sociocracy for All](https://www.sociocracyforall.org/) 
+
+
+Continue reading in the [session 2 document.](/session-documents/2021/session-2.md)
