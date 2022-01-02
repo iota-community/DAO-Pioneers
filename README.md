@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/github/license/gridsome/gridsome.svg?style=flat-square&label=License&colorB=6cc24a">
   </a>
   <a title="Follow on Twitter" href="https://twitter.com/iota">
+    <img src="https://img.shields.io/twitter/follow/iotatoken.svg?style=social&label=Follow%20@iota">
   </a>
   <br>
   <br>
