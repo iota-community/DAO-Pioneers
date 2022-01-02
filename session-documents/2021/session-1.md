@@ -4,7 +4,7 @@ November/December 2021
 
 A four to five-week learning circle on the future of cooperation.
 
-We took inspiration from [Stephen Reid](http://stephenreid.net/) ([@daoist321](https://twitter.com/daoist321)) How to DAO course, but harmonized content and adjusted it to the needs of our IOTA community.
+We took inspiration from [Stephen Reid](http://stephenreid.net/) ([@daoist321](https://twitter.com/daoist321)) "How to DAO" course, but harmonized the content and adjusted it to the needs of our IOTA community.
 
 
 ## Session 1 prep
