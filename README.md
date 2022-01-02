@@ -6,71 +6,44 @@
 </p>
 
 
-<h1 align="center"><a href="https://www.iota.org"> IOTA NAME-HERE Initiative</a></h1>
+<h1 align="center"><a href="https://www.iota.org"> IOTA DAO Pioneers </a></h1>
 
-<p align="center">The IOTA NAME-HERE Initiative is aimed to provide help, guidance, and spotlight to the IOTA Developer Community.</p>
+<p align="center">The IOTA DAO Pioneers Initiative is aimed to provide help, guidance, and education to the IOTA community around all topics related to decentralized autonomous organizations.</p>
 
 <p align="center">
   <a title="MIT License" href="LICENSE">
     <img src="https://img.shields.io/github/license/gridsome/gridsome.svg?style=flat-square&label=License&colorB=6cc24a">
   </a>
-  <a title="Follow on Twitter" href="https://twitter.com/iotatoken">
-    <img src="https://img.shields.io/twitter/follow/iotatoken.svg?style=social&label=Follow%20@iotatoken">
+  <a title="Follow on Twitter" href="https://twitter.com/iota">
+    <img src="https://img.shields.io/twitter/follow/iotatoken.svg?style=social&label=Follow%20@iota">
   </a>
   <br>
   <br>
 </p>
 
 
-## 🌳 IOTA NAME-HERE Initiative
+## 🌳 IOTA DAO-Pioneers Initiative
 
-The **IOTA NAME-HERE Initiative** is a collaborative effort to help people in the IOTA Community by introducing consistent workflows around [IOTA NAME-HERE](https://link-to-blogpost or article) with content, and open source contributions.
+The **IOTA DAO-Pioneers Initiative** is a collaborative effort to help people in the IOTA Community by introducing consistent workflows with content and open source contributions.
 
-IOTA is an open-source distributed ledger technology that allows [connected devices](https://en.wikipedia.org/wiki/Connected_Devices) to transfer data and [IOTA tokens](https://docs.iota.org/docs/getting-started/0.1/clients/token) among each other for zero fees.
+IOTA is an open-source distributed ledger technology that allows [connected devices](https://en.wikipedia.org/wiki/Connected_Devices) to transfer data and [IOTA tokens](https://wiki.iota.org/learn/about-iota/an-introduction-to-iota) among each other for zero fees.
 
 ## 🎯 Initiative Goals
 
-The IOTA NAME-HERE is in phase [alpha implementation, ready for review, research phase]. We are currently focused on improving the IOTA Experience around the following goals:
+The IOTA DAO-Pioneers Initiative is an active community learning experience.
 
-**Insert goals you would like to achive and delete this line**
+We aim not to be teachers and students, but we aim to strengthen collective and collaborative learning in DAOs.
 
-- Quality Assurance/Review
-- Documentation
-- Code samples development
-- Improvements to module/libraries
+Our first learning circle has happened in the time frame between 8th November 2021 till 10th December 2021 and included regular live sessions in the IOTA Discord and discussions in the related #DAO-Pioneer discord channels.
 
-### Quality Assurance/Review
+The First learning circle involved 486 Iota community members!
 
-Quality Assurance/Review goal includes making sure that the releases are easily usable, has no obvious bugs or pitfalls that might turn developers off from trying further once they run into them, make sure that the examples we provide are clear and work for the most common use cases the release is aimed at.
+We did 51 live sessions talking about DAOs and explored the provided learning materials together.
 
- > - [ ] Insert goal name and link to issue. e.g. [IOTA Streams Feedback (A)](https://github.com/iota-community/IOTAStreams/issues/1)
+15487 minutes of voice chat have happened during these sessions.
 
-### Documentation
+Find the recordings of the Friday main sessions in our [YouTube playlist](https://youtube.com/playlist?list=PL5joP0FyJQU4A9__Ulub29j6LC_wqy6ux)
 
-Documentation goal includes everything related to writing, curating, and sharing content around with solid documentation at every launch, that is kept up-to-date, well-written explanations of tangible use cases to stimulate developer interest
+The participants followed five learning documents that aimed to cover the most important topics around DAOs and provided further readings into the topic.
 
-> - [ ] **Insert goal name and link to issue. e.g.** [“Channels Application step-by-step” joint blog post series (B)](https://github.com/iota-community/IOTAStreams/issues/2)
-> - [ ]
-### Code samples development
-
-Code samples development goal includes Code examples and well-presented PoCs to kick start devs Create a list of RFP’s for the EDF to fund Open-Source development
-
-> - [ ] **Insert goal name and link to issue. e.g.** [IOTA Streams Integrations (B)](https://github.com/iota-community/IOTAStreams/issues/3)
-> - [ ]
-
-###  Improvements to module/libraries
-
-Improvements to module/libraries goal includes Developer-friendly APIs at launch Solid comms both at release and after release (e.g. spotlight for community projects using each of libs)
-
-> - [ ] **Insert goal name and link to issue. e.g.** [IOTA Streams Integrations (B)](https://github.com/iota-community/IOTAStreams/issues/3)
-> - [ ]
-
-## 🤔 How Can You Get Involved?
-
-Show your interest by adding your information with an issue here on github and join the IOTA Experience Team on the [IOTA Discord](https://discord.iota.org).
-
-## 👥 What to expect?
-
-Meet with IOTA Foundation members to exchange ideas, give and receive feedback for the chosen goal(s).
-
-This initiative is possible thanks to the contribution of the IOTA Community members and participants will be invited to participate in feedback collecting and evaluating sessions to further push the capabilities of the IOTA Experience Teams. 
+Those session documents are preserved in this repository to be publicly available to everyone interested.
