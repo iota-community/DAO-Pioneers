@@ -14,16 +14,16 @@ Welcome to the IOTA DAO Pioneers learning circle!
 First of all, thank you all. So much interest in the topic is great to see and gives us confidence that we can achieve great things together! So give yourself some kudos for being part of this! 
 
 
-We have set this up to give our first round of interested DAOists in IOTA a way of preparation, learning, and understanding the basics and tools that are needed to successfully start and run a DAO on IOTA. We hope that some of you will start their own DAOs together with us and we will all together be able to learn from these first DAO prototypes to develop an amazing DAO Framework for the IOTA Mainnet.
+We have set this up to give our first round of interested DAOists in IOTA a way of preparing, learning, and understanding the basics and tools needed to start and run a DAO on IOTA successfully. We hope that some of you will begin your own DAOs together with us, and we will all together be able to learn from these first DAO prototypes to develop a fantastic DAO Framework for the IOTA Mainnet.
 
-We have opened an #iota-dao-pioneers channel in the IOTA Discord, where we can chat about this course. You all will get your “DAO-Pioneer” role and gain access to this channel.
+We have opened an #iota-dao-pioneers channel in the IOTA Discord, where we can chat about this course. You all will get your "DAO-Pioneer" role and gain access to this channel.
 
-A reminder: You will be sent prep tasks at least a few days before each Friday session (allow 1 hour), and homework at the end of each session (allow 1 hour). To get the most out of the course you should also set aside at least 2 hours per session to go back through the notes, read some of the links provided and make sure you've understood everything we've covered. So that's a minimum of 6 hours per week for maximum benefit (1-hour prep, 2 hours live, 2 hours revision, 1-hour homework). \
+A reminder: You will be sent prep tasks at least a few days before each Friday session (allow 1 hour), and homework at the end of each session (allow 1 hour). To get the most out of the course, you should also set aside at least 2 hours per session to go back through the notes, read some of the links provided and make sure you've understood everything we've covered. So that's a minimum of 6 hours per week for maximum benefit (1-hour prep, 2 hours live, 2 hours revision, 1-hour homework). \
 Additionally, Antonio and Holger will try to be available every day for a minimum of one hour (Antonio European time zone, Holger American evening/Asian morning) for a casual collective learning chat where we can explore some of the content we provide in the links here together.
 
 The first hour of the Friday live sessions will be used to underline some of the key points from the preparatory reading/watching, as a tour towards the rest of the notes from the session, and sometimes to go live, do some demo usages of tools. 
 
-For this first session, our approach is to provide you with a “map of the territory” along with a ton of high-quality content, and then leave it up to you to pick which areas you want to go into deeper. We won't have time to cover everything in detail. We suggest you use the 2 hours revision time to read more about anything you found particularly challenging or interesting.
+For this first session, our approach is to provide you with a "map of the territory" along with a ton of high-quality content, and then leave it up to you to pick which areas you want to go into deeper. We won't have time to cover everything in detail. We suggest you use the 2 hours revision time to read more about anything you found particularly challenging or exciting.
 
 **OK, here's the prep for the first session:**
 
@@ -34,7 +34,7 @@ Let's generate some excitement by starting with this pair of high-rhetoric/high-
 * [Aragon - The fight for freedom](https://youtu.be/AqjIWmiAidw) (5m)
 * [Introducing DAOstack (v2)](https://www.youtube.com/watch?v=rGFTeW6QBSo) (5m) 
 
-And this totally new short video pitch by DAOHaus
+And this new short video pitch by DAOHaus
 
 
 
@@ -104,12 +104,12 @@ How to solve coordination problems:
 
 
 
-1. **Formal standards**: Rules that are codified by certain parties/rules about how parties are supposed to act, and/or
+1. **Formal standards**: Rules that are codified by certain parties/rules about how parties are supposed to act and/or
 2. **Social conventions:** A regularity followed by people belonging to a group/a shared expectation of the correct way to behave
 
-(It seems to me this isn't really a binary, it's more a spectrum of formality. What's important is that there's **communication** and **agreement**on **rules/conventions**.)
+(It seems to me this isn't a binary, it's more a spectrum of formality. What's important is that there's **communication** and **agreement**on **rules/conventions**.)
 
-We strongly encourage every one of you to play the following game at least one time (takes around 20 minutes). Would be great if you can share your findings/thoughts on our Discord channel about it.
+We strongly encourage every one of you to play the following game at least one time (it takes around 20 minutes). It would be great if you could share your findings/thoughts on our Discord channel about it.
 
 
 
@@ -127,19 +127,19 @@ Conclusions from The Evolution of Trust:
 
 Key passages from [Meditations On Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) (OG essay on slatestarcodex.com, [audio version here](https://www.youtube.com/watch?v=SeohwQls2GE))
 
-"Things are easy to solve from a god’s-eye-view, so if everyone comes together into a superorganism, that superorganism can solve problems with ease and finesse."
+"Things are easy to solve from a god's-eye-view, so if everyone comes together into a superorganism, that superorganism can solve problems with ease and finesse."
 
-"The two active ingredients of government are laws plus violence – or more abstractly agreements plus enforcement mechanism. Many other things besides governments share these two active ingredients and so are able to act as coordination mechanisms to avoid traps.
+"The two active ingredients of government are laws plus violence – or more abstractly agreements plus enforcement mechanism. Besides governments, many other things share these two active ingredients and can act as coordination mechanisms to avoid traps.
 
-For example, since students are competing against each other (directly if classes are graded on a curve, but always indirectly for college admissions, jobs, et cetera) there is intense pressure for individual students to cheat. The teacher and school play the role of a government by having rules (for example, against cheating) and the ability to punish students who break them.
+For example, since students are competing against each other (directly if classes are graded on a curve, but always indirectly for college admissions, jobs, et cetera), there is intense pressure for individual students to cheat. The teacher and school play the role of a government by having rules (for example, against cheating) and the ability to punish students who break them.
 
-But the emergent social structure of the students themselves is also a sort of government. If students shun and distrust cheaters, then there are rules (don’t cheat) and an enforcement mechanism (or else we will shun you).
+But the emergent social structure of the students themselves is also a sort of government. If students shun and distrust cheaters, then there are rules (don't cheat) and an enforcement mechanism (or else we will shun you).
 
-Social codes, gentlemens’ agreements, industrial guilds, criminal organizations, traditions, friendships, schools, corporations, and religions are all coordinating institutions [that aren't governments] that keep us out of traps by changing our incentives."
+Social codes, gentlemens' agreements, industrial guilds, criminal organizations, traditions, friendships, schools, corporations, and religions are all coordinating institutions [that aren't governments] that keep us out of traps by changing our incentives."
 
 From [Know Thy Enemy: Coordination Failures](https://newsletter.banklesshq.com/p/know-thy-enemy-coordination-failures):
 
-"If only there was a technology that allowed groups of humans to choose to easily coordinate with one another! A transparent substrate for trust games where everyone knows where they stand and whose rules can’t be changed on you.
+"If only there was a technology that allowed groups of humans to choose to easily coordinate with one another! A transparent substrate for trust games where everyone knows where they stand and whose rules can't be changed on you.
 
 My belief is that this is the ultimate legacy of smart contracts. We can now program our values into our economic system—the final form of a stateful internet could allow us to coordinate the actions of multiple economic actors and therefore could solve coordination failures."
 
@@ -176,7 +176,7 @@ Looking at how traditional organizations work can teach us a lot about DAOs.
 
 * [11 Practical Steps Towards Healthy Power Dynamics at Work](https://medium.com/the-tuning-fork/11-practical-steps-towards-healthy-power-dynamics-at-work-fcc9bd82c7a2) (take note of _Step 11. Share the ownership!_:)
 
-    "My concern is that words like “non-hierarchical” and “self-organizing” [can] create a smokescreen, masking the real power dynamics that are ultimately determined by the **ownership structure**."
+    "My concern is that words like "non-hierarchical" and "self-organizing" [can] create a smokescreen, masking the real power dynamics that are ultimately determined by the **ownership structure**."
 
 
 There are **two distinct types of ownership rights** relevant to organizations:
@@ -216,22 +216,22 @@ Worker led / steward - led:
 
 
 * [Golden Share Definition](https://www.investopedia.com/terms/g/goldenshare.asp) (Investopedia)
-* [Armin Steuernagel on how to keep a mission driven company independent and raise capital](https://investinginregenerativeagriculture.com/2018/11/19/armin-steuernagel/) (podcast)
+* [Armin Steuernagel on how to keep a mission-driven company independent and raise capital](https://investinginregenerativeagriculture.com/2018/11/19/armin-steuernagel/) (podcast)
 * [New Belgium, A Beloved Brewery, Is Sold To International Conglomerate](https://www.npr.org/2019/12/18/789218053/new-belgium-a-beloved-brewery-is-sold-to-international-conglomerate?t=1615390106266)
-* [Why Employee Ownership Wasn’t Good Enough for This Organic Food Company](https://nextcity.org/daily/entry/why-employee-ownership-wasnt-good-enough-for-this-organic-food-company)  
+* [Why Employee Ownership Wasn't Good Enough for This Organic Food Company](https://nextcity.org/daily/entry/why-employee-ownership-wasnt-good-enough-for-this-organic-food-company)  
 
 "A golden share is a type of share that gives its shareholder veto power over changes to the company's charter. It holds special voting rights, giving its holder the ability to block another shareholder from taking more than a ratio of ordinary shares."
 
 From [Steward-Ownership: Rethinking ownership in the 21st century](https://purpose-economy.org/content/uploads/purposebooklet_en.pdf ):
 
-"The Golden Share holds veto rights on all decisions that would effectively undermine the company’s commitment to steward-ownership. This veto-share is held by a “veto-service” foundation such as the Purpose Foundation. To be a veto-share provider, a foundation must be self-owned and have clear provisions in its own charter that enable it to use this veto right
+"The Golden Share holds veto rights on all decisions that would effectively undermine the company's commitment to steward-ownership. This veto-share is held by a "veto-service" foundation such as the Purpose Foundation. To be a veto-share provider, a foundation must be self-owned and have clear provisions in its own charter that enable it to use this veto right.
 
 to protect the provisions of steward-ownership."
 
 
 ### Case study: Equal Care Co-op: a multi-stakeholder platform co-operative
 
-[Equal Care Co-op](https://equalcare.coop/) are building a new, co-owned social care platform that puts caregivers and receivers in charge. By incorporating as a multi-stakeholder co-operative, their digital product and accompanying service is owned by and accountable to the communities using and sustaining it. They arrived at the platform co-op model as a response to systemic inequities within the social care system, seeing it as a practical route to centering choice, power and ownership with the two most important people in care – the person giving and the person getting support.
+[Equal Care Co-op](https://equalcare.coop/) are building a new, co-owned social care platform that puts caregivers and receivers in charge. By incorporating as a multi-stakeholder co-operative, their digital product and accompanying service is owned by and accountable to the communities using and sustaining it. They arrived at the platform co-op model as a response to systemic inequities within the social care system, seeing it as a practical route to centering choice, power, and ownership with the two most important people in care – the person giving and the person getting support.
 
 <img width="781" alt="image" src="https://user-images.githubusercontent.com/77154511/147868088-32ee591d-051f-4956-8b4f-ef9a1daba40f.png">
 <img width="754" alt="image" src="https://user-images.githubusercontent.com/77154511/147868110-d5657d65-d773-4d1c-93b1-b6557dddba8c.png">
@@ -246,13 +246,13 @@ to protect the provisions of steward-ownership."
 
 From [What is participatory budgeting? A 60-second guide](https://pbscotland.scot/what-is-pb):
 
-"Participatory budgeting comes in all shapes and sizes, but basically it looks like this:
+"Participatory budgeting comes in all shapes and sizes, but basically, it looks like this:
 
 
 
 1. Ideas are generated about how a budget should be spent
 2. People vote for their priorities 
-3. The projects with the most votes get funded"
+3. The projects with the most votes get funded."
 
 A popular web2 tool for participatory budgeting:  [Cobudget](https://cobudget.co/) 
 
@@ -263,17 +263,17 @@ A popular web2 tool for participatory budgeting:  [Cobudget](https://cobudget.co
 
 From [What is Ethereum? (EthHub)](https://docs.ethhub.io/ethereum-basics/what-is-ethereum/): 
 
-"While the word "contract" brings to mind legal agreements; in Ethereum "smart contracts" are just pieces of code that run on the blockchain and are guaranteed to produce the same result for everyone who runs them. These can be used to create a wide range of Decentralized Applications (DApps) which can include games, digital collectibles, online-voting systems, financial products and many others."
+"While the word "contract" brings to mind legal agreements, in Ethereum, "smart contracts" are just pieces of code that run on the blockchain and are guaranteed to produce the same result for everyone who runs them. These can be used to create a wide range of Decentralized Applications (DApps) which can include games, digital collectibles, online-voting systems, financial products, and many others."
 
 From [Chapter 7: Smart Contracts and Solidity of Mastering Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc):
 
-"The term smart contract has been used over the years to describe a wide variety of different things. In the 1990s, cryptographer Nick Szabo coined the term and defined it as “a set of promises, specified in digital form, including protocols within which the parties perform on the other promises.” Since then, the concept of smart contracts has evolved, especially after the introduction of decentralized blockchain platforms with the invention of Bitcoin in 2009. In the context of Ethereum, the term is actually a bit of a misnomer, given that Ethereum smart contracts are neither smart nor legal contracts, but the term has stuck. In this book, we use the term “smart contracts” to refer to immutable computer programs that run deterministically in the context of an Ethereum Virtual Machine as part of the Ethereum network protocol—i.e., on the decentralized Ethereum world computer.
+"The term smart contract has been used over the years to describe a wide variety of different things. In the 1990s, cryptographer Nick Szabo coined the term and defined it as "a set of promises, specified in digital form, including protocols within which the parties perform on the other promises." Since then, the concept of smart contracts has evolved, especially after introducing decentralized blockchain platforms with the invention of Bitcoin in 2009. In the context of Ethereum, the term is actually a bit of a misnomer, given that Ethereum smart contracts are neither smart nor legal contracts, but the term has stuck. In this book, we use the term "smart contracts" to refer to immutable computer programs that run deterministically in the context of an Ethereum Virtual Machine as part of the Ethereum network protocol—i.e., on the decentralized Ethereum world computer.
 
-Let’s unpack that definition:
+Let's unpack that definition:
 
 _Computer programs_
 
-Smart contracts are simply computer programs. The word “contract” has no legal meaning in this context.
+Smart contracts are simply computer programs. The word "contract" has no legal meaning in this context.
 
 _Immutable_
 
@@ -289,11 +289,11 @@ Smart contracts operate with a very limited execution context. They can access t
 
 _Decentralized world computer_
 
-The EVM runs as a local instance on every Ethereum node, but because all instances of the EVM operate on the same initial state and produce the same final state, the system as a whole operates as a single "world computer."
+The EVM runs as a local instance on every Ethereum node. Still, because all instances of the EVM operate on the same initial state and produce the same final state, the system as a whole operates as a single "world computer."
 
 
 
-* This leads to the know huge problems the ETH blockchain faces (excessive unpredictable fees, no scalability, very low throughput. Every node in ETH MUST compute every smart contract that is operating!
+* This leads to the know huge problems the ETH blockchain faces (excessive, unpredictable fees, no scalability, very low throughput. Every node in ETH MUST compute every smart contract that is operating!
 * IOTA Smart Contracts solves this by allowing multiple (hundreds/thousands) parallel blockchains working together connected through the Tangle.
 
 
@@ -341,7 +341,7 @@ Newsletters:
 
 * Paradigm's great DAO Biweekly newsletter:
     * 7th August: [DAOs: Aave pursues multichain governance, MakerDAO adding delegation, Decentralizing Gitcoin…](https://medium.com/paradigm-fund/daos-aave-pursues-multichain-governance-makerdao-adding-delegation-decentralizing-gitcoin-b53b877c95ac)
-    * 21st August:  [DAOs: DAOs react to regulation, Aragon’s Optimistic Governance announced, Curve’s…](https://medium.com/paradigm-fund/daos-daos-react-to-regulation-aragons-optimistic-governance-announced-curve-s-4e67ce4592e2)
+    * 21st August:  [DAOs: DAOs react to regulation, Aragon's Optimistic Governance announced, Curve's…](https://medium.com/paradigm-fund/daos-daos-react-to-regulation-aragons-optimistic-governance-announced-curve-s-4e67ce4592e2)
 * [Boardroom's This Week in DAOs and Stateless Weekly](https://governance.substack.com/)
 * [DAOhaus Substack](https://daohaus.substack.com/)
 
@@ -372,7 +372,7 @@ DAOs allow people to:
 
 * **Attract and incentivize contributors:** DAOs incentivize contributors by giving them a say in the future of the organization.
 * **Pool funds:** DAOs use cryptocurrencies, allowing people all around the world to pool funds.
-* **Govern those funds together:** DAOs allow people to collaboratively channel common funds towards common missions.
+* **Govern those funds together:** DAOs allow people to channel common funds towards common missions collaboratively.
 
 From [DAOHaus](https://daohaus.club/):
 
@@ -403,7 +403,7 @@ Some common themes: _freedom, sovereignty, co-creation, community_
 
 From [The Dao of DAOs](https://www.notboring.co/p/the-dao-of-daos-5b9): 
 
-"DAOs are all about maximizing stakeholder value. The users and contributors are also the investors and owners. While community ownership seems weird and novel and almost hippie, it’s actually a more natural model than a few outside investors and board members dumping a bunch of money into a company and deciding what it should do. The reason we do it the way we do is that, until now, it’s been too hard to coordinate having a lot of small owner/stakeholders who all get a say in decision-making. Technology is finally enabling the more natural model."
+"DAOs are all about maximizing stakeholder value. The users and contributors are also the investors and owners. While community ownership seems weird and novel and almost hippie, it's actually a more natural model than a few outside investors and board members dumping a bunch of money into a company and deciding what it should do. We do it the way we do because, until now, it's been too hard to coordinate having a lot of small owners/stakeholders who all get a say in decision-making. Technology is finally enabling the more natural model."
 
 Some of the benefits of DAOs over traditional partnerships and co-operative structures:
 
@@ -428,7 +428,7 @@ See also [Past, Present, Future: From Co-ops to Cryptonetworks](https://jessewal
 
 
 * **DAOs are global:** DAOs allow people to come together and work on common missions just as easily as joining a chat group.
-* **DAOs are transparent:** DAOs allow anyone with an internet connection to check their members, financials and decisions taken.
+* **DAOs are transparent:** DAOs allow anyone with an internet connection to check their members, financials, and decisions taken.
 * **DAOs are fluid:** DAOs scale their workforce dynamically. There are low barriers to entry, allowing new members to join.
 
 
@@ -498,7 +498,7 @@ Stories of some protocol DAOs:
   - [The Gitcoin/GitcoinDAO Egregore is Emerging](https://gov.gitcoin.co/t/the-gitcoin-gitcoindao-egregore-is-emerging/8200)
   - [FWB Season Three: Creative Cooperation](https://fwb.mirror.xyz/TvKSPfZqHNXRZVYFYyJuziCMIZ8fZ34q585YcUYRGtc)
 
-"Right now Gitcoin is known for Gitcoin Grants, which is based on a really powerful coordination mechanism, quadratic funding. But what if instead of building ONE coordination mechanism, we built a generalized generator function of ALL coordination!!! If GitcoinDAO can successfully be a Schelling point for builders of all types of coordination tools, then we could help solve some of the systemic coordination problems in the world."
+"Right now, Gitcoin is known for Gitcoin Grants, which is based on a really powerful coordination mechanism, quadratic funding. But what if instead of building ONE coordination mechanism, we built a generalized generator function of ALL coordination!!! If GitcoinDAO can successfully be a Schelling point for builders of all types of coordination tools, then we could help solve some of the systemic coordination problems in the world."
 
 Investment DAOs
 
@@ -568,9 +568,9 @@ From [The Spartan Council](https://blog.synthetix.io/spartan-council-proposal/):
 
 #### Holacracy & Sociocracy
 
-Some large DAOs are experimenting with holocracy, sociocracy and similar models.
+Some large DAOs are experimenting with holocracy, sociocracy, and similar models.
 
-From [Organizational Structure](https://reinventingorganizationswiki.com/theory/organizational-structure/) (Reinventing Organisation’s wiki):
+From [Organizational Structure](https://reinventingorganizationswiki.com/theory/organizational-structure/) (Reinventing Organisation's wiki):
 
 "Self-managing organizations adopt different forms to fit the context in which they operate. There seem to be three broad types of self-managing structures that have emerged so far:
 
@@ -584,9 +584,9 @@ These structures are not mutually exclusive, and some organizations exhibit a mi
 
 For [some] companies, nested teams (often called circles) might be particularly appropriate, as they allow an overall purpose to be broken down into successively less complex and more manageable pieces.
 
-This structure was formalized by Kees Boeke in the mid 20th century in a system called Sociocracy (first applied in a school in the Netherlands). Holacracy, an organizational system pioneered by Brian Robertson in his software company Ternary Software, is also structured in concentric circles.
+Kees Boeke formalized this structure in the mid 20th century in a system called Sociocracy (first applied in a school in the Netherlands). Holacracy, an organizational system pioneered by Brian Robertson in his software company Ternary Software, is also structured in concentric circles.
 
-Through nesting, circles gradually integrate related activities, so there is a hierarchy of purpose, complexity, and scope, but not of people or power. Each circle has full authority to make decisions within the scope of its specific purpose. Decisions are not sent upwards, and cannot be overturned by members of overarching circles."
+Through nesting, circles gradually integrate related activities, so there is a hierarchy of purpose, complexity, and scope, but not of people or power. Each circle has full authority to make decisions within the scope of its specific purpose. Decisions are not sent upwards and cannot be overturned by members of overarching circles."
 
 <img width="644" alt="image" src="https://user-images.githubusercontent.com/77154511/147868263-e7ecd9d4-213d-4140-8449-d326eb7ce3cc.png">
 
