@@ -74,7 +74,7 @@ Listen/watch to at least one of the following and start/join a discussion offeri
 ## Session 1: Introduction to DAOs
 
 
-###**Game Theory and Coordination**
+**Game Theory and Coordination**
 
 
 
@@ -107,7 +107,7 @@ How to solve coordination problems:
 1. **Formal standards**: Rules that are codified by certain parties/rules about how parties are supposed to act, and/or
 2. **Social conventions:** A regularity followed by people belonging to a group/a shared expectation of the correct way to behave
 
-(It seems to me this isn't really a binary, it's more a spectrum of formality. What's important is that there's **communication** and **agreement **on **rules/conventions**.)
+(It seems to me this isn't really a binary, it's more a spectrum of formality. What's important is that there's **communication** and **agreement**on **rules/conventions**.)
 
 We strongly encourage every one of you to play the following game at least one time (takes around 20 minutes). Would be great if you can share your findings/thoughts on our Discord channel about it.
 
@@ -474,71 +474,74 @@ Breakdown of different types of DAO, based on [DAO Landscape by Coopahtroopa](ht
     * [Moloch DAO](https://www.molochdao.com/)
 * Protocol DAOs
 
-      		- [Uniswap](https://gov.uniswap.org/)
-
-		- [Polkadot](https://polkadot.polkassembly.io/referenda)
-
-		- [Yearn finance](https://gov.yearn.finance/)
-
-		- [Aave](https://snapshot.org/#/aave.eth)
+	- [Uniswap](https://gov.uniswap.org/)
+	- [Polkadot](https://polkadot.polkassembly.io/referenda)
+	- [Yearn finance](https://gov.yearn.finance/)
+	- [Aave](https://snapshot.org/#/aave.eth)
 
 <img width="591" alt="image" src="https://user-images.githubusercontent.com/77154511/147868203-3b3f75e1-4708-4122-8e46-cee91539d849.png">
 
 
+Voting platforms for protocol DAOs:
+	
+- [Compound Governance](https://compound.finance/docs/governance) (forked by many protocol DAOs)
+- [Open Zeppelin Governance](https://docs.openzeppelin.com/contracts/4.x/governance) - new set of contracts by the popular Plattform
+- [Snapshot](https://snapshot.org/) (off-chain voting)
+	   - [What is Snapshot? The Decentralized Voting System](https://decrypt.co/resources/what-is-snapshot-the-decentralized-voting-system)
+- [Tally](https://www.withtally.com/) (on-chain voting)
+           - [Interview with Tally co-founder Dennison Bertram on DeFi Prime](https://defiprime.com/tally)
+- [Boardroom](https://boardroom.info/)
+	
+Stories of some protocol DAOs:
 
-    * Voting platforms for protocol DAOs:
-        * [Compound Governance](https://compound.finance/docs/governance) (forked by many protocol DAOs)
-        * [Open Zeppelin Governance](https://docs.openzeppelin.com/contracts/4.x/governance) - new set of contracts by the popular Plattform
-        * [Snapshot](https://snapshot.org/) (off-chain voting)
-            * [What is Snapshot? The Decentralized Voting System](https://decrypt.co/resources/what-is-snapshot-the-decentralized-voting-system) 
-        * [Tally](https://www.withtally.com/) (on-chain voting)
-            * [Interview with Tally co-founder Dennison Bertram on DeFi Prime](https://defiprime.com/tally)
-        * [Boardroom](https://boardroom.info/)
-    * Stories of some protocol DAOs:
-        * [Understanding Index Coop Pt 1 - by Kerman Kohli - DeFi Weekly](https://defiweekly.substack.com/p/understanding-index-coop-pt-1)
-        * [The Gitcoin/GitcoinDAO Egregore is Emerging](https://gov.gitcoin.co/t/the-gitcoin-gitcoindao-egregore-is-emerging/8200)
-        * [FWB Season Three: Creative Cooperation](https://fwb.mirror.xyz/TvKSPfZqHNXRZVYFYyJuziCMIZ8fZ34q585YcUYRGtc)
+  - [Understanding Index Coop Pt 1 - by Kerman Kohli - DeFi Weekly](https://defiweekly.substack.com/p/understanding-index-coop-pt-1)
+  - [The Gitcoin/GitcoinDAO Egregore is Emerging](https://gov.gitcoin.co/t/the-gitcoin-gitcoindao-egregore-is-emerging/8200)
+  - [FWB Season Three: Creative Cooperation](https://fwb.mirror.xyz/TvKSPfZqHNXRZVYFYyJuziCMIZ8fZ34q585YcUYRGtc)
 
-            "Right now Gitcoin is known for Gitcoin Grants, which is based on a really powerful coordination mechanism, quadratic funding. But what if instead of building ONE coordination mechanism, we built a generalized generator function of ALL coordination!!! If GitcoinDAO can successfully be a Schelling point for builders of all types of coordination tools, then we could help solve some of the systemic coordination problems in the world."
+"Right now Gitcoin is known for Gitcoin Grants, which is based on a really powerful coordination mechanism, quadratic funding. But what if instead of building ONE coordination mechanism, we built a generalized generator function of ALL coordination!!! If GitcoinDAO can successfully be a Schelling point for builders of all types of coordination tools, then we could help solve some of the systemic coordination problems in the world."
 
-* Investment DAOs
+Investment DAOs
 
+  - [MetaCartel Ventures](https://www.metacartel.org/)
+  - [The LAO](https://www.thelao.io/)
+  - [Dove Dispatch: Venture Investment DAOs](https://dovemountain.substack.com/p/dove-dispatch-19) 
+  - [How DAOs Are Reshaping Investment](https://decrypt.co/78958/how-daos-are-reshaping-investment) 
+  - [Venture DAOs: So Hot Right Now](https://messari.io/article/venture-daos-so-hot-right-now)
+  - [The Future of Venture Capital Will Be Decentralised](https://www.decentralised.co/the-future-of-venture-capital/)  
 <img width="566" alt="image" src="https://user-images.githubusercontent.com/77154511/147868216-8cf785dd-a9f8-488f-b71b-3bcef5a9c2a0.png">
 
+Service DAOs
 
-    * [MetaCartel Ventures](https://www.metacartel.org/)
-    * [The LAO](https://www.thelao.io/)
-    * [Dove Dispatch: Venture Investment DAOs](https://dovemountain.substack.com/p/dove-dispatch-19) 
-    * [How DAOs Are Reshaping Investment](https://decrypt.co/78958/how-daos-are-reshaping-investment) 
-    * [Venture DAOs: So Hot Right Now](https://messari.io/article/venture-daos-so-hot-right-now)
-    * [The Future of Venture Capital Will Be Decentralised](https://www.decentralised.co/the-future-of-venture-capital/)  
-* Service DAOs
-    * [Raid Guild](https://portfolio.raidguild.org/)
-    * [LexDAO](https://www.lexdao.coop/)
-    * [dOrg](https://www.dorg.tech/#/)
-    * [DXdao](https://dxdao.eth.link/#/)
-    * [1hive](https://about.1hive.org/)
-* Social DAOs
+  - [Raid Guild](https://portfolio.raidguild.org/)
+  - [LexDAO](https://www.lexdao.coop/)
+  - [dOrg](https://www.dorg.tech/#/)
+  - [DXdao](https://dxdao.eth.link/#/)
+  - [1hive](https://about.1hive.org/)
+  
+Social DAOs
 
 <img width="571" alt="image" src="https://user-images.githubusercontent.com/77154511/147868225-84a03a0e-7a50-4db5-869c-3b8aaa8bd36c.png">
 
+  - [Friends With Benefits](https://www.fwb.help/)
+        - [Worldbuilding with FWB](https://zine.zora.co/worldbuilding-with-fwb) 
+        - [Evolution of the FWB DAO](https://zhang.mirror.xyz/9sRa2kNDUpkWoQkWw67bJ8PczFyTSX8fotf7JOddxew)
+         -[Decentralized Autonomous Organizations and the Promise of Utopia · Feature ⟋ RA](https://ra.co/features/3914) 
+   - [Forefront ✨](https://forefront.market/)
+   - [Social Token Refresh — Mirror](https://coopahtroopa.mirror.xyz/DYSs-mhdJi1uXZTaiyJfwiFZYAF9kRK6yBsAplk6A68) 
+   - [Social Token Paradox — Mirror](https://gaby.mirror.xyz/zqchiBQhWWS49gaabLU92-BUUwfBL5aHCtNT88VTI8o)
+   - [Community DAOs — Mirror](https://p.mirror.xyz/cVN3KOss0uqpZwxHQKtC4Syvn1RfXaxofFKHJuKLWS4) 
+   - [We’re (in) the money](https://davidphelps.substack.com/p/were-in-the-money?justPublished=true&s=09&utm_source=pocket_mylist) 
+   - [Seasons & Longevity of Community Tokens](https://blog.simondlr.com/posts/seasons-longevity-in-community-tokens) 
+   - [Social Tokens 2020 in Review](https://2020inreview.forefront.news/) 
 
-    * [Friends With Benefits](https://www.fwb.help/)
-        * [Worldbuilding with FWB](https://zine.zora.co/worldbuilding-with-fwb) 
-        * [Evolution of the FWB DAO](https://zhang.mirror.xyz/9sRa2kNDUpkWoQkWw67bJ8PczFyTSX8fotf7JOddxew)
-        * [Decentralized Autonomous Organizations and the Promise of Utopia · Feature ⟋ RA](https://ra.co/features/3914) 
-    * [Forefront ✨](https://forefront.market/)
-    * [Social Token Refresh — Mirror](https://coopahtroopa.mirror.xyz/DYSs-mhdJi1uXZTaiyJfwiFZYAF9kRK6yBsAplk6A68) 
-    * [Social Token Paradox — Mirror](https://gaby.mirror.xyz/zqchiBQhWWS49gaabLU92-BUUwfBL5aHCtNT88VTI8o)
-    * [Community DAOs — Mirror](https://p.mirror.xyz/cVN3KOss0uqpZwxHQKtC4Syvn1RfXaxofFKHJuKLWS4) 
-    * [We’re (in) the money](https://davidphelps.substack.com/p/were-in-the-money?justPublished=true&s=09&utm_source=pocket_mylist) 
-    * [Seasons & Longevity of Community Tokens](https://blog.simondlr.com/posts/seasons-longevity-in-community-tokens) 
-    * [Social Tokens 2020 in Review](https://2020inreview.forefront.news/) 
-* Collector DAOs
-    * [PleasrDAO](https://twitter.com/PleasrDAO)
-    * [SquiggleDAO](https://twitter.com/squiggledao)
-* Media DAOs
-    * [Introducing Media DAOs](https://dev.mirror.xyz/WPnZICvS2XbHJQ3u-GrsvYqios3XWmZhQvTKEyUJOGE?utm_source=pocket_mylist)
+Collector DAOs
+
+   - [PleasrDAO](https://twitter.com/PleasrDAO)
+   - [SquiggleDAO](https://twitter.com/squiggledao)
+
+Media DAOs
+
+   - [Introducing Media DAOs](https://dev.mirror.xyz/WPnZICvS2XbHJQ3u-GrsvYqios3XWmZhQvTKEyUJOGE?utm_source=pocket_mylist)
 
 
 ### Structure of DAOs
