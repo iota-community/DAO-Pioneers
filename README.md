@@ -36,16 +36,18 @@ We aim not to be teachers and students, but we aim to strengthen collective and 
 
 Our first learning circle has happened in the time frame between 8th November 2021 till 10th December 2021 and included regular live sessions in the IOTA Discord and discussions in the related #DAO-Pioneer discord channels.
 
-The First learning circle involved 486 Iota community members!
+Some facts from the first circle in november/december 2021:
 
-We did 51 live sessions talking about DAOs and explored the provided learning materials together.
+- The First learning circle involved 486 Iota community members!
 
-15487 minutes of voice chat have happened during these sessions.
+- We did 51 live sessions talking about DAOs and explored the provided learning materials together.
 
-Find the recordings of the Friday main sessions in our [YouTube playlist](https://youtube.com/playlist?list=PL5joP0FyJQU4A9__Ulub29j6LC_wqy6ux)
+- A total of 15487 minutes of voice chat have happened during these sessions.
+
+Find the recordings of 5 the Friday main sessions in our [YouTube playlist](https://youtube.com/playlist?list=PL5joP0FyJQU4A9__Ulub29j6LC_wqy6ux)
 
 The participants followed five learning documents that aimed to cover the most important topics around DAOs and provided further readings into the topic.
 
 Those session documents are preserved in this repository to be publicly available to everyone interested.
 
-The learning circle itself is an event stretched over a 4-5 weeks period. Every week includes a session document that cover the topic of this session. We have collected the documents in [these folders](/session-documents/2021).
+We have collected the documents in [these folders](/session-documents/2021).
