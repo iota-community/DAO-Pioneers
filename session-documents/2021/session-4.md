@@ -438,12 +438,12 @@ With the knowledge of how liability currently operates, there should be clear di
 Typically with centralized organizations, ownership is vested in identifiable persons. For charitable foundations, however, the requirement of private owners is not necessary. Instead, there are identifiable controllers featured in legal organizations as administrators.
 
 
-#### **_ Patrimony_**
+#### **_Patrimony_**
 
 Every legal person has a distinct patrimony, which includes everything one owns and intangible rights. Creating a legal organization confers an organizational right to patrimony in such a way that the patrimony of an organization then includes the tangible and intangible ownership interests of the organization. The principle is much the same for an organization represented as a technology but merits additional discussion.
 
 
-### ** Conclusion**
+### **Conclusion**
 
 Just as other forms of legal personality have been granted to non-human entities, there should be a new form of legal personality for DAOs. Existing literature has demonstrated that certain rights are required for certain protections.
 
