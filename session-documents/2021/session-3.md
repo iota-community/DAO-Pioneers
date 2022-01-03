@@ -5,7 +5,7 @@ We took inspiration from [Stephen Reid](http://stephenreid.net/) ([@daoist321](h
 
 ## Session 3 prep
 
-Listen in to this great podcast episode on Spotify about reward systems in DAOs
+Listen in to this great podcast episode on Spotify about reward systems in DAOs.
 
 
 
@@ -21,7 +21,7 @@ Optionally, check out some of the content coming out of The DAOist:
 **Session 3 content:**
 
 
-#### **DAO Operating Systems**
+### **DAO Operating Systems**
 
 
 
@@ -62,14 +62,14 @@ Optionally, check out some of the content coming out of The DAOist:
 
 DAOhaus DAOs differentiate between (non-transferable) voting-economic rights (called 'Shares') and (non-transferable) economic-only rights without voting power (called 'Loot'):
 
-"To allow the DAO to issue non-voting shares, we introduce the concept of Loot. Just like Shares, Loot is requested via proposal, issued to specific members and non-transferrable, and can be redeemed (via ragequit) on par with Shares for a proportional fraction of assets in the Guild Bank. However, Loot does not count towards votes and DAO members with _only_ Loot will not be able to sponsor proposals or vote on them."
+"To allow the DAO to issue non-voting shares, we introduce the concept of Loot. Just like Shares, Loot is requested via proposal, issued to specific members and non-transferable, and can be redeemed (via ragequit) on par with Shares for a proportional fraction of assets in the Guild Bank. However, Loot does not count towards votes, and DAO members with _only_ Loot will not be able to sponsor proposals or vote on them."
 
 The next version of DAOhaus will totally decouple voting rights from economic rights with separate 'Voice' (voting) and 'Exit' (economic) shares.
 
 Thus you can think of DAOhaus DAOs as **blockchain-based multi-stakeholder co-operatives**.
 
 
-### Shares and loot
+### Shares and Loot
 
 <img width="620" alt="image" src="https://user-images.githubusercontent.com/77154511/147893222-04ab1956-544b-4e09-9f04-fb3e8fb1ca79.png">
 
@@ -106,15 +106,15 @@ Anyone, even non-members, can submit proposals to the DAO.
 
 **2. Sponsor Proposal**
 
-After submitting a proposal, it will enter the Unsponsored Proposals section. This means someone with shares (which could be you) must Champion the proposal in order for it to be moved to voting.
+After submitting a proposal, it will enter the Unsponsored Proposals section. This means someone with shares (which could be you) must Champion the proposal for it to be moved to voting.
 
 Note: You can sponsor your own Proposal, but it is recommended that you have another member sponsor it so they can make sure you have filled out the proposal with the correct information and you get the result you intended for.
 
-Only members can 'Sponsor' the proposal, sending it to the Queue.
+Only members can 'Sponsor' the proposal, sending it to the queue.
 
-**3. In Queue**
+**3. In queue**
 
-Once the proposal has been sponsored it will enter the Queue. The queue ensures proposals are funneled to voting in an orderly fashion. One proposal will go from the queue to the Voting Period in a time-frame specified by the summoners of your DAO.
+Once the proposal has been sponsored, it will enter the queue. The queue ensures proposals are funneled to voting in an orderly fashion. One proposal will go from the queue to the Voting Period in a time frame specified by the summoners of your DAO.
 
 **4. Voting Period**
 
@@ -122,11 +122,11 @@ Once in the Voting Period, members can now vote on the proposal. Every proposal 
 
 **5. Grace Period**
 
-Voting is over, and the Proposal is set to pass or fail depending on the votes cast during Voting. Members who voted No, and have no other pending Yes votes, can ragequit during this period.
+Voting is over, and the Proposal is set to pass or fail depending on the votes cast during voting. Members who voted No, and have no other pending Yes votes, can ragequit during this period.
 
 **6. Ready for Processing**
 
-Next, the proposal is sent to Processing in which the vote is time-stamped on-chain.
+Next, the proposal is sent to Processing, in which the vote is time-stamped on-chain.
 
 **7. Completed**
 
@@ -151,7 +151,7 @@ After being processed, the proposal is marked as Completed, and all shares, fund
 
 
 
-* Membership proposal/Funding proposal/Swap tokens for loot or shares (these are functionally equivalent, they just have different UI skins): tribute in, shares/loot/tokens out. They are a superset of _Request shares for tokens_ and _Request shares for work completed_.
+* Membership proposal/Funding proposal/Swap tokens for Loot or shares (these are functionally equivalent, they just have different UI skins): tribute in, shares/loot/tokens out. They are a superset of _Request shares for tokens_ and _Request shares for work completed_.
 * Loot grab: in development
 * Signal proposal: no tribute in, no shares/loot/tokens out
 
@@ -183,19 +183,19 @@ After being processed, the proposal is marked as Completed, and all shares, fund
 
 DAOstack aims to support the entire process of building DAOs, and so the stack currently includes everything from basic peer-to-peer decision-making modules to a fully functional user interface that requires no technical knowledge. 
 
-“There is a natural tension between scalability, the number of decisions a collective can make in a period of time, and resilience, the incorruptibility of those decisions. We resolve that tension with a new collective decision-making process, called holographic consensus, whereby small groups can make decisions on behalf of the larger majority in such a way that guarantees perfect alignment between the two.”
+"There is a natural tension between scalability, the number of decisions a collective can make in a period of time, and resilience, the incorruptibility of those decisions. We resolve that tension with a new collective decision-making process, called holographic consensus, whereby small groups can make decisions on behalf of the larger majority in such a way that guarantees perfect alignment between the two."
 
 — DAOstack architect Matan Field
 
-This is where the GEN token comes into play. GEN is a [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) that manages attention within the DAOstack ecosystem. GEN cannot buy voting power, nor does holding it grant voting privileges, but you can use GEN to place a stake for or against a proposal. This stake influences whether or not the proposal rises into the collective attention of the voters. If you stake for proposals that the voters then pass, you’re rewarded with more GEN. If you stake for a proposal that then fails, you lose your GEN. And vice versa if you stake against a proposal.
+This is where the GEN token comes into play. GEN is a [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) that manages attention within the DAOstack ecosystem. GEN cannot buy voting power, nor does holding it grant voting privileges, but you can use GEN to place a stake for or against a proposal. This stake influences whether or not the proposal rises into the collective attention of the voters. If you stake for proposals that the voters then pass, you're rewarded with more GEN. If you stake for a proposal that then fails, you lose your GEN. And vice versa if you stake against a proposal.
 
 This staking system effectively amounts to a prediction market that runs in parallel to the voting apparatus.
 
 Since predictors are incentivized to pick out the best, most DAO-aligned proposals, we can lower the passing requirements for the top predicted proposals: these proposals can be passed much more quickly and with fewer total votes than other proposals. This creates a dynamic we call holographic consensus.
 
-To create DAOs resilient to corruption, DAOstack’s first governance templates implement voting rights using a system called Reputation. Reputation is a score assigned to each user that represents that user’s voter power. Each DAO has a separate ledger of Reputation scores, and so Reputation cannot be directly transferred from peer to peer. Rather, it is distributed through the passing of proposals inside the DAO.
+To create DAOs resilient to corruption, DAOstack's first governance templates implement voting rights using a system called Reputation. Reputation is a score assigned to each user that represents that user's voter power. Each DAO has a separate ledger of Reputation scores, and so Reputation cannot be directly transferred from peer to peer. Rather, it is distributed through the passing of proposals inside the DAO.
 
-Indirect transfers of Reputation that cannot be completely prevented, such as a user transferring selling control of their account, are discouraged by a DAO’s ability to slash Reputation: if DAO voters find that an account has indirectly transferred its voting power, the DAO can pass a proposal to set that account’s Reputation score to zero.
+Indirect transfers of Reputation that cannot be completely prevented, such as a user transferring selling control of their account, are discouraged by a DAO's ability to slash Reputation: if DAO voters find that an account has indirectly transferred its voting power, the DAO can pass a proposal to set that account's Reputation score to zero.
 
 
 <img width="660" alt="image" src="https://user-images.githubusercontent.com/77154511/147893286-465ac5fa-5d1d-4950-b505-035376612822.png">
@@ -217,21 +217,11 @@ Indirect transfers of Reputation that cannot be completely prevented, such as a 
 * [Discord Bot Walkthrough : Collab.land Support](https://collabland.freshdesk.com/support/solutions/articles/70000036689-discord-bot-walkthrough)
 * [Collab.Land - Unlocking the Power of Crypto: NFTs and DAOs](https://www.youtube.com/watch?v=I7ayZ9X9sQw)
 
-Token-based roles, airdrops (as claims) and tipping
+Token-based roles, airdrops (as claims), and tipping
 
 
 <img width="644" alt="image" src="https://user-images.githubusercontent.com/77154511/147893308-c026c808-2325-4f9f-8d5e-7d7754251904.png">
 
-
-
-More options for tipping:
-
-
-
-* [Tip.cc](https://Tip.cc)
-    * [tip.cc - send cryptocurrencies on Discord & Telegram](https://tip.cc/)
-    * [Discord Bot Commands 🤖 - Learning - 1Hive](https://forum.1hive.org/t/discord-bot-commands/1298#heading--4) 
-* [Tip Party](https://tip.party/): Reward people for turning up to an event/meeting (Kevin demonstrated this in the previous session)
 
 
 ### Coordinape
@@ -249,7 +239,7 @@ More options for tipping:
 * [Richard Dennis Bartlett + Zach from Coordinape](https://www.youtube.com/watch?v=CumN3ZwiagI) 
 * Soon, similar vibe: [Quadratic Diplomacy](https://www.quadraticdiplomacy.com/) 
 
-"At the start of the epoch, each member of the Circle receives a number non-divisible GIVE tokens. Members allocated their GIVE tokens to other members over the course of the epoch to reward them for the value they bring to the organisation. Members can adjust their allocations up until the end of the epoch. They can add notes to their allocations if they wish. At the end of the epoch, all allocated GIVE tokens become locked (now called GET tokens), and all unallocated GIVE tokens are burned. Budget distribution is then formulated according to the percentage of total GET tokens that each member of the circles has received."
+"At the start of the epoch, each Circle member receives a number of non-divisible GIVE tokens. Members allocated their GIVE tokens to other members over the course of the epoch to reward them for their value to the organization. Members can adjust their allocations up until the end of the epoch. They can add notes to their allocations if they wish. At the end of the epoch, all allocated GIVE tokens become locked (now called GET tokens), and all unallocated GIVE tokens are burned. Budget distribution is then formulated according to the percentage of total GET tokens that each member of the circles has received."
 
 
 ### SourceCred
@@ -328,22 +318,22 @@ Similar vibe: the Commons Stack praise bot and SEEDS gratitude bot
     * [Digital Democracy Is Within Reach - Your Undivided Attention | Podcast with Audrey Tang](https://open.spotify.com/episode/0RrR4b1tUcuVZYV4fLH0tM) (2020, 47m)
     * [13: How To Hack The Epistemic Crisis, with Audrey Tang](https://open.spotify.com/episode/2euzZC2esXfRWBWFgZk9ss)  
 
-"In plain language, Polis is an open source technology for survey research that leverages data science. It is described on the website as:
+"In plain language, Polis is an open-source technology for survey research that leverages data science. It is described on the website as:
 
-_a real-time system for gathering, analyzing and understanding what large groups of people think in their own words, enabled by advanced statistics and machine learning._
+_a real-time system for gathering, analyzing, and understanding what large groups of people think in their own words, enabled by advanced statistics and machine learning._
 
-More specifically, Polis is a platform for a conversation, in which participants submit short text statements, or comments, (&lt;140 characters) which are then sent out semi-randomly to other participants to vote on by clicking agree, disagree or pass. Polis allows conversation owners to create conversations which can seamlessly engage (currently) up to hundreds of thousands or (conceivably) millions of participants…
+More specifically, Polis is a platform for a conversation, in which participants submit short text statements or comments (&lt;140 characters), which are then sent out semi-randomly to other participants to vote on by clicking agree, disagree or pass. Polis allows conversation owners to create conversations that can seamlessly engage (currently) up to hundreds of thousands or (conceivably) millions of participants…
 
-Polis might at first look like a fancy online opinion polling tool.  But it can more accurately be described as an evolving, lively, artificially intelligent, interactive “suggestion box” that can realize consensus around a controversial question. It works like this:  Dozens or thousands of participants submit short statements expressing their views on the question.  They also respond to other participants’ statements with Agree, Disagree, or Pass.
+Polis might at first look like a fancy online opinion polling tool. But it can more accurately be described as an evolving, lively, artificially intelligent, interactive "suggestion box" that can realize consensus around a controversial question. It works like this:  Dozens or thousands of participants submit short statements expressing their views on the question. They also respond to other participants' statements with Agree, Disagree, or Pass.
 
-As hundreds of these statements and evaluations accumulate, a behind-the-scenes algorithm sorts participants into diverse clusters of like-minded responders.  The algorithm then identifies “consensus statements" about which all the diverse clusters agree. At any time, participants can view graphics revealing the whole ecosystem of perspectives as it evolves. If they wish, they can create new statements that respond to what they see in that overview.  Over time their statements tend to become more specific and practical.
+As hundreds of these statements and evaluations accumulate, a behind-the-scenes algorithm sorts participants into diverse clusters of like-minded responders. The algorithm then identifies "consensus statements" about which all the diverse clusters agree. Participants can view graphics revealing the whole ecosystem of perspectives at any time as it evolves. They can create new statements that respond to what they see in that overview if they wish. Over time their statements tend to become more specific and practical.
 
-After days or weeks of this activity, the results - both consensus statements and divisive statements - are usually turned over to a dialogue among diverse stakeholders, citizens or decision-makers to inform and stimulate their creative responses to the question. Activities can be organized through which views from polis exercises and dialogues feed back and forth into each other to generate deepening insight and/or specificity.
+After days or weeks of this activity, the results - both consensus statements and divisive statements - are usually turned over to a dialogue among diverse stakeholders, citizens, or decision-makers to inform and stimulate their creative responses to the question. Activities can be organized through which views from polis exercises and dialogues feedback and forth into each other to generate deepening insight and/or specificity.
 
-Polis has been used with populations ranging from 40 to 40,000 people.  It is ideal for discovering unrealized possibilities in complex, conflicted situations involving widely diverse perspectives."
+Polis has been used with populations ranging from 40 to 40,000 people. It is ideal for discovering unrealized possibilities in complex, conflicted situations involving widely diverse perspectives."
 
 
-# DAO Tools
+##DAO Tools
 
 
 ### Snapshot
@@ -368,7 +358,7 @@ Polis has been used with populations ranging from 40 to 40,000 people.  It is id
 
 * [Overview - Gnosis Safe (gnosis-safe.io)](https://gnosis-safe.io/)
 * [👛 Multisig transactions with Gnosis Safe | by Federico Ulfo | Gauntlet | Medium](https://medium.com/gauntlet-networks/multisig-transactions-with-gnosis-safe-f5dbe67c1c2d)
-* [Protofire Deploys a Fork of Gnosis Safe Multisig into Moonriver to Enforce Security | by ProtoFire.io | ProtoFire Blog | Oct, 2021 | Medium](https://medium.com/protofire-blog/protofire-deploys-a-fork-of-gnosis-safe-multisig-into-moonriver-to-enforce-security-13e8630d9569#:~:text=Gnosis%20Safe%20Multisig%20is%20a%20fully%20customized%20crypto,assets%20stored.%20How%20Gnosis%20Safe%20Multisig%20can%20help)
+* [Protofire Deploys a Fork of Gnosis Safe Multisig into Moonriver to Enforce Security | by ProtoFire.io | ProtoFire Blog | Oct 2021 | Medium](https://medium.com/protofire-blog/protofire-deploys-a-fork-of-gnosis-safe-multisig-into-moonriver-to-enforce-security-13e8630d9569#:~:text=Gnosis%20Safe%20Multisig%20is%20a%20fully%20customized%20crypto,assets%20stored.%20How%20Gnosis%20Safe%20Multisig%20can%20help)
 * [Setting up Gnosis Multisignature Wallets - EWF - Confluence (atlassian.net)](https://energyweb.atlassian.net/wiki/spaces/EWF/pages/557908009/Setting+up+Gnosis+Multisignature+Wallets)
 
 
@@ -396,7 +386,7 @@ _sesh features_
 
 ### Tally
 
-Today at Tally we are building tools and interfaces to scale decentralized decision making. We have tools to vote, see who is participating in governance, and understand what votes and proposals are available. We support protocols looking to launch on-chain governance with an interface for creating and managing proposals. We help tokenholders keep up with governance via email notifications and to gather delegations and support from their fellow holders.
+Today at Tally, we build tools and interfaces to scale decentralized decision-making. We have tools to vote, see who is participating in governance, and understand what votes and proposals are available. We support protocols looking to launch on-chain governance with an interface for creating and managing proposals. We help tokenholders keep up with governance via email notifications and to gather delegations and support from their fellow holders.
 
 [Tally (withtally.com)](https://www.withtally.com/) \
  \
@@ -408,7 +398,7 @@ DAO overview Dashboard
 
 
 
-All - time top voters with the highest voting power over all governance votes
+All-time top voters with the highest voting power over all governance votes
 
 <img width="558" alt="image" src="https://user-images.githubusercontent.com/77154511/147893443-a45a850a-658e-4065-bc2d-7ae943ab96fb.png">
 
