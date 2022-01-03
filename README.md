@@ -44,10 +44,10 @@ Some facts from the first circle in november/december 2021:
 
 - A total of 15487 minutes of voice chat have happened during these sessions.
 
-Find the recordings of 5 the Friday main sessions in our [YouTube playlist](https://youtube.com/playlist?list=PL5joP0FyJQU4A9__Ulub29j6LC_wqy6ux)
+The following ressources are available from the first learning session:
 
-The participants followed five learning documents that aimed to cover the most important topics around DAOs and provided further readings into the topic.
+- [5 session documents](/session-documents/2021) including all knowledge and links to the covered topics.
+ 
+- [YouTube playlist](https://youtube.com/playlist?list=PL5joP0FyJQU4A9__Ulub29j6LC_wqy6ux) hosting the 5 Friday main grpup-chat sessions.
 
-Those session documents are preserved in this repository to be publicly available to everyone interested.
 
-We have collected the documents in [these folders](/session-documents/2021).
