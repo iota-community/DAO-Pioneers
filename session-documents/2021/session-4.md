@@ -29,21 +29,21 @@ We took inspiration from [Stephen Reid](http://stephenreid.net/) ([@daoist321](h
 
 Bankless started in 2019 as a newsletter, added a podcast in 2020, and in 2021 is now a self-sustaining media company dedicated to democratizing access to information about the world of decentralized finance. The role of Bankless is to operate as a public good for education, media, and culture on crypto and all other bankless technologies that are being introduced into the world.
 
- \
-Mission statement: [Mission (bankless.community)](https://www.bankless.community/mission)
+
+## **Mission statement: [Mission (bankless.community)](https://www.bankless.community/mission)**
 
 
 ### **The bankless movement is ready to grow out of the hands of the few and into the hands of the many.**
 
-*The bankless message is a global banner, and the Bankless DAO is the organization that coordinates people under this banner. Only an internet-native organization is capable of growing an internet-scaled revolution, and thus we need a Bankless DAO to grow the bankless revolution.
+*The bankless message is a global banner, and the Bankless DAO is the organization that coordinates people under this banner. Only an internet-native organization is capable of growing an internet-scaled revolution, and thus we need a Bankless DAO to grow the bankless revolution.*
 
-*We want a money system by the people and for the people.
+*We want a money system by the people and for the people.*
 
-*We want to propagate crypto media and culture.
+*We want to propagate crypto media and culture.*
 
-*We want to help the world go bankless.
+*We want to help the world go bankless.*
 
-*Help grow the world’s first-ever media and culture DAO. Bring your talents, time, and ideas. Join the revolution.
+*Help grow the world’s first-ever media and culture DAO. Bring your talents, time, and ideas. Join the revolution.*
 
 **Season Plan**
 
@@ -70,10 +70,7 @@ Members drop into the Discord server and go through a series of “quests” tha
 
 <img width="514" alt="image" src="https://user-images.githubusercontent.com/77154511/147893804-3e54b96d-134d-460b-9356-8b7e25d2e1db.png">
 <img width="512" alt="image" src="https://user-images.githubusercontent.com/77154511/147893816-d2e41f6c-ada9-4b97-b516-82d5d82d1230.png">
-
-
-
-                             Discord onboarding in Bankless DAO
+Discord onboarding in Bankless DAO
 
 Eventually, going through _First Quest _will lead directly to a guild workstream. Like a funnel with multiple outlets, new members can find a guild they most resonate with and jump directly into a guild-specific first quest. For example, the [writers guild's first quest](https://docs.google.com/document/d/1qmaoGRhFlK6jdfkE8pZtn1LmqVSzpwxFlHvpZ-xDaEI/edit#) would be to complete an editing or writing task to gauge competency and familiarize new members with how the writers guild operates.
 
@@ -267,7 +264,7 @@ To help inform the types of grants which are most likely to get funded, we highl
 * [Uniswap Removes Stock Tokens – Trustnodes – Block News Media](https://blocknewsmedia.com/index.php/2021/07/26/uniswap-removes-stock-tokens-trustnodes/)
 
 
-## MakerDAO Ponders the Unthinkable as Members Debate Incorporation and Paying Taxes
+### MakerDAO Ponders the Unthinkable as Members Debate Incorporation and Paying Taxes
 
 Should DAOs pay taxes? And, if so: Where?
 
@@ -319,7 +316,7 @@ Lawyer, lecturer for digitalization law | IOTA Foundation
 
 Will be our guest in the DAO Pioneer call on Friday 03.12.!
 
-**1. DAOs without a registered legal entity**
+## **1. DAOs without a registered legal entity**
 
 The first option, which is used a lot through the DeFi- Ecosystem, is not setting up a legal entity at all and trying to create a fully decentralized structure. However, this does not mean that DAOs without a registered legal entity operate outside the law. In most jurisdictions, they will be seen as general partnerships with the corresponding legal consequences. This most significant one is the risk of the personal liability of every participant. But this means also the DAO has a legal personality and can in most jurisdictions legally own assets and also employ people. Although the participants did not register the DAO, they created a fully recognized legal entity in most jurisdictions that can sue and can be sued. This is often misunderstood.
 
