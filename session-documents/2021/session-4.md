@@ -377,7 +377,7 @@ Especially regarding the last option with an offshore foundation, a lot of proje
 As shown, there is no “perfect” and no onefitsall solution for DAOs.<sup><a href="https://lrz.legal/en/the-legal-revolutionary/law-in-the-digital-economy/how-can-a-decentralized-autonomous-organization-dao-be-legally-structured#_ftn40">40</a></sup> Until a proper legal framework for DAOs is created, which enables them to operate fully decentralized with limited liability legal recognition and easy taxation,<sup><a href="https://lrz.legal/en/the-legal-revolutionary/law-in-the-digital-economy/how-can-a-decentralized-autonomous-organization-dao-be-legally-structured#_ftn41">41</a></sup> every current legal setup comes with its benefits and downsides and each DAO should seek individual legal advice, which option fits the best for its needs. Especially when a DAO Token is involved, the legal setup can get even more complicated, as a Token can often be qualified as a security<sup><a href="https://lrz.legal/en/the-legal-revolutionary/law-in-the-digital-economy/how-can-a-decentralized-autonomous-organization-dao-be-legally-structured#_ftn42">42</a></sup> and create additional legal requirements, such as prospects or registration with the legal authorities.
 
 
-### Following texts taken from: \
+## The following texts taken from: 
 [Mapping the Future of Legal Personality · MIT Computational Law Report](https://law.mit.edu/pub/mappingthefutureoflegalpersonality/release/1)
 
 Prior to discussing the features of DAOs that call for legal recognition, we will provide a range of interpretations and issues with each of these core features.
