@@ -169,7 +169,7 @@ My belief is that this is the ultimate legacy of smart contracts. We can now pro
 * [Human Coordination lessons applied to DAOs](https://open.spotify.com/episode/0BBEqoIlwmcTANljcmDnXK?si=tkEqhPodRImG2b7kG4BfWg) - collectively intelligent podcast
 
 
-**Ownership of organizations**
+### **Ownership of organizations**
 
 Looking at how traditional organizations work can teach us a lot about DAOs.
 
