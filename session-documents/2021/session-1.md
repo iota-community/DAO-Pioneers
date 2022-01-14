@@ -92,7 +92,7 @@ Listen/watch to at least one of the following and start/join a discussion offeri
 * Structure of DAOs
 
 
-**Game theory & coordination failure**
+### **Game theory & coordination failure**
 
 
 
