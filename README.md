@@ -46,8 +46,77 @@ Some facts from the first circle in november/december 2021:
 
 The following ressources are available from the first learning session:
 
+- [YouTube playlist](https://youtube.com/playlist?list=PL5joP0FyJQU4A9__Ulub29j6LC_wqy6ux) hosting the 5 Friday main grpup-chat sessions.
+
 - [5 session documents](/session-documents/2021) including all knowledge and links to the covered topics.
  
-- [YouTube playlist](https://youtube.com/playlist?list=PL5joP0FyJQU4A9__Ulub29j6LC_wqy6ux) hosting the 5 Friday main grpup-chat sessions.
+# Table of content:
+
+## Session 1: Introduction to DAOs
+
+
+- [Game Theory and Coordination failure](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-1.md#game-theory--coordination-failure)
+- [Ownership of organizations](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-1.md#ownership-of-organizations) 
+- [Golden shares](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-1.md#golden-shares)
+- [Smart contracts](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-1.md#smart-contracts)
+- [DAOs](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-1.md#daos)
+- [What is a DAO?](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-1.md#what-is-a-dao)
+- [Why DAO/what problems do DAOs solve?](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-1.md#why-daowhat-problems-do-daos-solve)
+- [An overview of the DAO space](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-1.md#an-overview-of-the-dao-space)
+- [Structure of DAOs](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-1.md#structure-of-daos)
+
+
+## Session 2: Voting and Governance
+
+- [Coin voting](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-2.md#coin-voting)
+- [Proof-of-personhood](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-2.md#proof-of-personhood)
+- [Quadratic voting](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-2.md#quadratic-voting)
+- [Vote delegation/liquid democracy](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-2.md#vote-delegationliquid-democracy)
+- [Conviction voting](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-2.md#conviction-voting)
+- [Other issues with coin voting](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-2.md#other-issues-with-coin-voting)
+- [Polkadot governance](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-2.md#polkadot-governance)
+- [Uniswap Governance](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-2.md#uniswap)
+
+
+## Session 3: DAO Operating Systems and Tools
+
+- [DAO Haus](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-3.md#dao-haus)
+- [Aragon](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-3.md#aragon)
+- [DAOStack](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-3.md#daostack)
+- [Collab.land](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-3.md#collabland)
+- [Coordinape](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-3.md#coordinape)
+- [SourceCred](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-3.md#sourcecred)
+- [Loomio](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-3.md#loomio)
+- [Polis](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-3.md#polis)
+- [Snapshot](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-3.md#snapshot)
+- [Gnosis / multisig](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-3.md#gnosis--multisig)
+- [sesh](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-3.md#sesh)
+- [Tally](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-3.md#tally)
+
+
+## Session 4: DAO Deep Dives and DAO Legal
+
+- [Media DAO: Bankless DAO](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-4.md#media-dao-bankless-dao)
+- [Social DAO: Friends With Benefits](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-4.md#social-dao-friends-with-benefits)
+- [Aave Grants DAO](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-4.md#aave-grants-dao)
+- [Legal standing/incorporation of DAOs](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-4.md#legal-standingincorporation-of-daos)
+- [MakerDAO Ponders the Unthinkable as Members Debate Incorporation and Paying Taxes](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-4.md#makerdao-ponders-the-unthinkable-as-members-debate-incorporation-and-paying-taxes)
+- [How can a decentralized autonomous organization (DAO) be legally structured?](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-4.md#how-can-a-decentralized-autonomous-organization-dao-be-legally-structured) - by Bian Mienert
+- [DAOs without a registered legal entity](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-4.md#1-daos-without-a-registered-legal-entity)
+- [Setting up a DAO with a liability wrapper or as a DAO LLC](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-4.md#2-setting-up-a-dao-with-a-liability-wrapper-or-as-a-dao-llc)
+- [Setting up a DAO as a Foundation](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-4.md#3-setting-up-a-dao-as-a-foundation)
+- [Combinations of the different options](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-4.md#4-combinations-of-the-different-options)
+- [Mapping the Future of Legal Personality · MIT Computational Law Report](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-4.md#the-following-texts-are-taken-from)
+- [The Malta Model: Innovative Technologie arrangements (ITA)](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-4.md#the-malta-model-innovative-technologie-arrangements-ita)
+- [The Rise of Decentral Autonomous Organisations](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-4.md#the-rise-of-decentral-autonomous-organisations)
+- [Legal DAOs](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-4.md#legal-daos)
+
+
+## Session 5: How to “finally” DAO? 
+
+- [Vision and Mission](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-5.md#1-vision-and-mission)
+- [Creating a structure / organization](https://github.com/iota-community/DAO-Pioneers/blob/master/session-documents/2021/session-5.md#2-creating-a-structure--organization)
+
+
 
 
