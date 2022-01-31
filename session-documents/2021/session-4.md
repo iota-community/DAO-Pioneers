@@ -252,7 +252,7 @@ To help inform the types of grants which are most likely to get funded, we highl
 * [The Rise of Decentralized Autonomous Organizations: Opportunities and Challenges · Stanford Journal of Blockchain Law & Policy (pubpub.org)](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
 * [Mapping the Future of Legal Personality · MIT Computational Law Report](https://law.mit.edu/pub/mappingthefutureoflegalpersonality/release/1)
 * [Entity Structure V2 - 8.6.21 (a16z.com)](https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf)
-* [How can a decentralized autonomous organization (DAO) be legally structured? (lrz.legal)](https://lrz.legal/en/law-in-the-digital-economy/how-can-a-decentralized-autonomous-organization-dao-be-legally-structured)
+* [How can a decentralized autonomous organization (DAO) be legally structured? (lrz.legal)](https://lrz.legal/de/lrz/how-can-a-decentralized-autonomous-organization-dao-be-legally-structured)
 * [https://thedefiant.io/makerdao-taxes-incorporation-debate/](https://thedefiant.io/makerdao-taxes-incorporation-debate/)
 * [https://www.theblockcrypto.com/post/123979/sec-halts-token-registrations-of-wyoming-based-dao](https://www.theblockcrypto.com/post/123979/sec-halts-token-registrations-of-wyoming-based-dao)
 * [Legal structures for DAOs](https://mirror.xyz/0x954888B7a5C6736F4955dF18B556D8328FD02f61/5K9llACK4tzu5WHL68CM3bBsmSleL_XxJ2kRGYnwp7A)
@@ -307,7 +307,7 @@ In fact, if the DAO finds itself forced to add those features, Kampmann suggeste
 
 ## **How can a decentralized autonomous organization (DAO) be legally structured?**
 
-* [https://lrz.legal/en/the-legal-revolutionary/law-in-the-digital-economy/how-can-a-decentralized-autonomous-organization-dao-be-legally-structured](https://lrz.legal/en/the-legal-revolutionary/law-in-the-digital-economy/how-can-a-decentralized-autonomous-organization-dao-be-legally-structured)
+* [https://lrz.legal/en/the-legal-revolutionary/law-in-the-digital-economy/how-can-a-decentralized-autonomous-organization-dao-be-legally-structured](https://lrz.legal/de/lrz/how-can-a-decentralized-autonomous-organization-dao-be-legally-structured)
 
 
 [Biyan Mienert](https://lrz.legal/en/editorial-staff/30-autoren/179-biyan-mienert)
