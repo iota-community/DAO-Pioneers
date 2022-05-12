@@ -26,7 +26,6 @@ Read:
 * [YFI Governance 2.0 (yearn finance)](https://gov.yearn.finance/t/yip-61-governance-2-0/10460)
 * [A walkthrough of Polkadots governance](https://polkadot.network/blog/a-walkthrough-of-polkadots-governance/)
 * [Governance Tokens - The Good, the Bad, The Ugly](https://lexnode.substack.com/p/governance-tokens-the-good-the-bad)
-* [An Explanation of DAOstack in Fairly Simple Terms | by Ezra Weller | DAOstack | Medium](https://medium.com/daostack/an-explanation-of-daostack-in-fairly-simple-terms-1956e26b374)
 * [Turing-Complete Governance — Mirror](https://baby.mirror.xyz/O7a922A-9zT4C4UwssRExkftdHywJ-13sR2rxQ-t__k)
 
 Listen to: 
@@ -66,7 +65,7 @@ Listen to:
 * Colony
 
 
-## Coin voting
+## Coin voting  update links!
 
 
 
@@ -123,26 +122,17 @@ Similar Ideas could be realized using the IOTA Identity Framework:
 Articles/papers:
 
 
-
 * [Quadratic Voting: How Mechanism Design Can Radicalize Democracy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2003531) 
 * [Colorado Tried a New Way to Vote: Make People Pay—Quadratically](https://www.wired.com/story/colorado-quadratic-voting-experiment/) (Wired)
 * [What Is Quadratic Voting?](https://towardsdatascience.com/what-is-quadratic-voting-4f81805d5a06) (towardsdatascience.com)
-* [Quadratic voting](https://en.wikipedia.org/wiki/Quadratic_voting) (Wikipedia)
-* [A Taxonomy of Voting Methods](https://blog.aragon.org/a-taxonomy-of-voting-methods/) (Aragon)
-* [Quadratic Payments: A Primer](https://vitalik.ca/general/2019/12/07/quadratic.html) (Vitalik)
-* [$WRITE RACE: Quadratic Voting](https://dev.mirror.xyz/Js_GJfNUTPnuqLxlGN7YnX0Ynd0aspkhPWTskubBdzQ)
+
 
 Videos:
 
-
-
 * [Video Explanation of Quadratic Voting and Quadratic Funding - Jonjon Clark](https://www.youtube.com/watch?v=_xRbnobzs2Y&t=229s)
-* [Our Two Cents – What is Quadratic Voting?](https://www.youtube.com/watch?v=C3RqnXfgNf8) 
-* [Quadratic Voting: Cross between a voting budget and a one-person-one-vote system](https://www.youtube.com/watch?v=fhVt-1cA23U)
-* [WTF is Quadratic Funding (in 60 sec)](https://www.youtube.com/watch?v=HJljTtLnymE)
 
 
-### Vote delegation/liquid democracy
+### Vote delegation/liquid democracy  Maker DAO updaten
 
 
 
@@ -185,12 +175,10 @@ _Boardroom’s delegation UI_
 
 
 * [Conviction Voting: A Novel Continuous Decision Making Alternative to Governance](https://medium.com/giveth/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-aa746cfb9475) 
-* [Understanding Real-Time 'Vote Streaming' | Jeff Emmett | Commons Stack](https://medium.com/commonsstack/announcing-the-conviction-voting-cadcad-model-release-8e907ce67e4e)
-* [Conviction Voting - TEC Handbook](https://token-engineering-commons.gitbook.io/tec-handbook/conviction-voting)
 * [Conviction Voting TL;DR](https://forum.tecommons.org/t/conviction-voting-tl-dr/308)
 * [Conviction Voting. From ad-hoc voting to continuous voting | Kay | Giveth](https://medium.com/giveth/conviction-voting-34019bd17b10)
 * [A Brief History of Conviction Voting | by Michael Zargham | Medium](https://michaelzargham.medium.com/a-brief-history-of-conviction-voting-ad4ca4eb4aee)
-* [Introducing Gardens: a framework for effective on-chain governance](https://gardens.substack.com/p/introducing-gardens) 
+
 
 
 ### Other issues with coin voting
@@ -209,7 +197,7 @@ _Boardroom’s delegation UI_
 * [Voting Options in DAOs](https://medium.com/daostack/voting-options-in-daos-b86e5c69a3e3)
 
 
-## Governance projects
+## Governance projects - add ENS
 
 
 ### Polkadot governance 
