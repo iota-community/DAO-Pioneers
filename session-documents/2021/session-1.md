@@ -27,15 +27,8 @@ For this first session, our approach is to provide you with a "map of the territ
 
 **OK, here's the prep for the first session:**
 
-Let's generate some excitement by starting with this pair of high-rhetoric/high-production-value/low-on-specifics videos from the first DAO hype wave in 2018:
-
-
-
-* [Aragon - The fight for freedom](https://youtu.be/AqjIWmiAidw) (5m)
-* [Introducing DAOstack (v2)](https://www.youtube.com/watch?v=rGFTeW6QBSo) (5m) 
 
 And this new short video pitch by DAOHaus
-
 
 
 * [DAOhaus - What is a DAO? - YouTube](https://www.youtube.com/watch?v=7MaucjMwEUA)
@@ -44,7 +37,6 @@ From there, check out some content on the development of organizations, game the
 
 
 
-* Watch [The Laloux Culture Model](https://www.youtube.com/watch?v=g0Jc5aAJu9g) (until 6m45)
 * Watch [Coordination Games - Christopher Coyne](https://www.youtube.com/watch?v=ZtwXw8EHuZ0) (8m) 
 * Read [Know Thy Enemy: Coordination Failures](https://newsletter.banklesshq.com/p/know-thy-enemy-coordination-failures) by Kevin Owocki 
 * Play [The Evolution of Trust](https://ncase.me/trust/): an interactive guide to the game theory of why & how we trust each other.
@@ -58,7 +50,6 @@ Read at least one of the following articles:
 * [A beginner's guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)  (by Linda Xie)
 
 Listen/watch to at least one of the following and start/join a discussion offering some of your findings and opinions in the DAO-Pioneers Discord channel:
-
 
 
 * [DAO Panel | Kain Warwick, Coopahtroopah, Tracheopteryx](https://open.spotify.com/episode/3OdPXznM5YZCkHGXGamtdm?si=Oq4lKg5eQyyuXzlhh08scA&utm_source=native-share-menu&dl_branch=1&nd=1) (Bankless, Aug 2021)
@@ -162,8 +153,6 @@ My belief is that this is the ultimate legacy of smart contracts. We can now pro
 **The evolution of coordination**
 
 
-
-* [The Laloux Culture Model](https://www.youtube.com/watch?v=g0Jc5aAJu9g)
 * [Developmental Perspective on Organizations](https://reinventingorganizationswiki.com/theory/developmental-perspective-on-organizations/)
 * [Reinventing Organizations YouTube channel](https://www.youtube.com/channel/UCUiCCzSId58oP0p62Z2m3zQ) 
 * [Human Coordination lessons applied to DAOs](https://open.spotify.com/episode/0BBEqoIlwmcTANljcmDnXK?si=tkEqhPodRImG2b7kG4BfWg) - collectively intelligent podcast
@@ -211,23 +200,6 @@ Worker led / steward - led:
 * [Transforming Ownership to Create a Better Economy](https://www.youtube.com/watch?v=Z2Uy_ODDiZo)
 
 
-### Golden shares
-
-
-
-* [Golden Share Definition](https://www.investopedia.com/terms/g/goldenshare.asp) (Investopedia)
-* [Armin Steuernagel on how to keep a mission-driven company independent and raise capital](https://investinginregenerativeagriculture.com/2018/11/19/armin-steuernagel/) (podcast)
-* [New Belgium, A Beloved Brewery, Is Sold To International Conglomerate](https://www.npr.org/2019/12/18/789218053/new-belgium-a-beloved-brewery-is-sold-to-international-conglomerate?t=1615390106266)
-* [Why Employee Ownership Wasn't Good Enough for This Organic Food Company](https://nextcity.org/daily/entry/why-employee-ownership-wasnt-good-enough-for-this-organic-food-company)  
-
-"A golden share is a type of share that gives its shareholder veto power over changes to the company's charter. It holds special voting rights, giving its holder the ability to block another shareholder from taking more than a ratio of ordinary shares."
-
-From [Steward-Ownership: Rethinking ownership in the 21st century](https://purpose-economy.org/content/uploads/purposebooklet_en.pdf ):
-
-"The Golden Share holds veto rights on all decisions that would effectively undermine the company's commitment to steward-ownership. This veto-share is held by a "veto-service" foundation such as the Purpose Foundation. To be a veto-share provider, a foundation must be self-owned and have clear provisions in its own charter that enable it to use this veto right.
-
-to protect the provisions of steward-ownership."
-
 
 ### Case study: Equal Care Co-op: a multi-stakeholder platform co-operative
 
@@ -237,26 +209,6 @@ to protect the provisions of steward-ownership."
 <img width="754" alt="image" src="https://user-images.githubusercontent.com/77154511/147868110-d5657d65-d773-4d1c-93b1-b6557dddba8c.png">
 
 
-
-### Participatory budgeting
-
-<img width="529" alt="image" src="https://user-images.githubusercontent.com/77154511/147868129-f72b61ec-fd39-4098-b9e7-e83c2fcbf5ea.png">
-
-
-
-From [What is participatory budgeting? A 60-second guide](https://pbscotland.scot/what-is-pb):
-
-"Participatory budgeting comes in all shapes and sizes, but basically, it looks like this:
-
-
-
-1. Ideas are generated about how a budget should be spent
-2. People vote for their priorities 
-3. The projects with the most votes get funded."
-
-A popular web2 tool for participatory budgeting:  [Cobudget](https://cobudget.co/) 
-
-"Cobudget is a tool and a methodology that makes resource allocation participatory. It enables all members of an organization to get involved in decision-making by proposing projects and allocating funds to the proposals they like." 
 
 
 ### Smart contracts
@@ -391,11 +343,7 @@ _Via [Aragon](https://aragon.org/dao)_
 
 Why DAO? Check the manifestos of some of the DAO platforms:
 
-
-
-* [Aragon manifesto](https://aragon.org/blog/the-aragon-manifesto-4a21212eac03)
-* [UberHaus manifesto](https://uberhaus.club/docs/philosophy-&-vision)
-* [DAOhaus manifesto](https://github.com/HausDAO/manifesto/blob/master/README.md)
+(Soonaverse manifesto)
 * [Metacartel Values & Mission](https://github.com/metacartel/mission/blob/master/metacartel-values-mission.md)
 * [Metacartel Manifesto](https://github.com/metacartel/mission/blob/master/community-first-manifesto.md)  
 
@@ -423,13 +371,6 @@ Some of the benefits of DAOs over traditional partnerships and co-operative stru
 
 See also [Past, Present, Future: From Co-ops to Cryptonetworks](https://jessewalden.com/past-present-future-from-co-ops-to-cryptonetworks/) section _Where co-ops fall short_
 
-[Aragon](https://aragon.org/dao)'s take:
-
-
-
-* **DAOs are global:** DAOs allow people to come together and work on common missions just as easily as joining a chat group.
-* **DAOs are transparent:** DAOs allow anyone with an internet connection to check their members, financials, and decisions taken.
-* **DAOs are fluid:** DAOs scale their workforce dynamically. There are low barriers to entry, allowing new members to join.
 
 
 ### An overview of the DAO space
@@ -490,7 +431,6 @@ Voting platforms for protocol DAOs:
 	   - [What is Snapshot? The Decentralized Voting System](https://decrypt.co/resources/what-is-snapshot-the-decentralized-voting-system)
 - [Tally](https://www.withtally.com/) (on-chain voting)
            - [Interview with Tally co-founder Dennison Bertram on DeFi Prime](https://defiprime.com/tally)
-- [Boardroom](https://boardroom.info/)
 	
 Stories of some protocol DAOs:
 
@@ -500,7 +440,7 @@ Stories of some protocol DAOs:
 
 "Right now, Gitcoin is known for Gitcoin Grants, which is based on a really powerful coordination mechanism, quadratic funding. But what if instead of building ONE coordination mechanism, we built a generalized generator function of ALL coordination!!! If GitcoinDAO can successfully be a Schelling point for builders of all types of coordination tools, then we could help solve some of the systemic coordination problems in the world."
 
-Investment DAOs
+Investment DAOs / *update artikels*
 
   - [MetaCartel Ventures](https://www.metacartel.org/)
   - [The LAO](https://www.thelao.io/)
@@ -510,7 +450,7 @@ Investment DAOs
   - [The Future of Venture Capital Will Be Decentralised](https://www.decentralised.co/the-future-of-venture-capital/)  
 <img width="566" alt="image" src="https://user-images.githubusercontent.com/77154511/147868216-8cf785dd-a9f8-488f-b71b-3bcef5a9c2a0.png">
 
-Service DAOs
+Service DAOs *upsdate*
 
   - [Raid Guild](https://portfolio.raidguild.org/)
   - [LexDAO](https://www.lexdao.coop/)
@@ -518,14 +458,10 @@ Service DAOs
   - [DXdao](https://dxdao.eth.link/#/)
   - [1hive](https://about.1hive.org/)
   
-Social DAOs
+Social DAOs *update*
 
 <img width="571" alt="image" src="https://user-images.githubusercontent.com/77154511/147868225-84a03a0e-7a50-4db5-869c-3b8aaa8bd36c.png">
 
-  - [Friends With Benefits](https://www.fwb.help/)
-        - [Worldbuilding with FWB](https://zine.zora.co/worldbuilding-with-fwb) 
-        - [Evolution of the FWB DAO](https://zhang.mirror.xyz/9sRa2kNDUpkWoQkWw67bJ8PczFyTSX8fotf7JOddxew)
-         -[Decentralized Autonomous Organizations and the Promise of Utopia · Feature ⟋ RA](https://ra.co/features/3914) 
    - [Forefront ✨](https://forefront.market/)
    - [Social Token Refresh — Mirror](https://coopahtroopa.mirror.xyz/DYSs-mhdJi1uXZTaiyJfwiFZYAF9kRK6yBsAplk6A68) 
    - [Social Token Paradox — Mirror](https://gaby.mirror.xyz/zqchiBQhWWS49gaabLU92-BUUwfBL5aHCtNT88VTI8o)
@@ -534,12 +470,12 @@ Social DAOs
    - [Seasons & Longevity of Community Tokens](https://blog.simondlr.com/posts/seasons-longevity-in-community-tokens) 
    - [Social Tokens 2020 in Review](https://2020inreview.forefront.news/) 
 
-Collector DAOs
+Collector DAOs *update*
 
    - [PleasrDAO](https://twitter.com/PleasrDAO)
    - [SquiggleDAO](https://twitter.com/squiggledao)
 
-Media DAOs
+Media DAOs  *update bankless + Content DAo*
 
    - [Introducing Media DAOs](https://dev.mirror.xyz/WPnZICvS2XbHJQ3u-GrsvYqios3XWmZhQvTKEyUJOGE?utm_source=pocket_mylist)
 
@@ -549,7 +485,6 @@ Media DAOs
 
 
 * [Shaping your Community's Contribution Zones — Mirror](https://ff.mirror.xyz/UJa9qpbbYftlN4xMOD9W3TBgeJS3gxK8ec4FKUJFhuM) 
-* [Evolution of the FWB DAO — Mirror](https://zhang.mirror.xyz/9sRa2kNDUpkWoQkWw67bJ8PczFyTSX8fotf7JOddxew)
 * [The Spartan Council](https://blog.synthetix.io/spartan-council-proposal/) (Synthetix)
 * [DAOs first capital formations (Synthetix)](https://blog.synthetix.io/dao-first-capital-formation/)
 * [How to set up a Bankless DAO](https://newsletter.banklesshq.com/p/how-to-create-a-bankless-dao) (BanklessHQ)
@@ -566,41 +501,3 @@ From [The Spartan Council](https://blog.synthetix.io/spartan-council-proposal/):
 "The proposal above attempts to balance speed of iteration with avoiding a descent into plutocracy. It attempts to remain close to the status quo of one person one vote by allowing smaller holders to delegate to a council member that will represent them."
 
 
-#### Holacracy & Sociocracy
-
-Some large DAOs are experimenting with holocracy, sociocracy, and similar models.
-
-From [Organizational Structure](https://reinventingorganizationswiki.com/theory/organizational-structure/) (Reinventing Organisation's wiki):
-
-"Self-managing organizations adopt different forms to fit the context in which they operate. There seem to be three broad types of self-managing structures that have emerged so far:
-
-
-
-* Parallel teams
-* Web of individual contracting
-* Nested circles
-
-These structures are not mutually exclusive, and some organizations exhibit a mixture of these types…
-
-For [some] companies, nested teams (often called circles) might be particularly appropriate, as they allow an overall purpose to be broken down into successively less complex and more manageable pieces.
-
-Kees Boeke formalized this structure in the mid 20th century in a system called Sociocracy (first applied in a school in the Netherlands). Holacracy, an organizational system pioneered by Brian Robertson in his software company Ternary Software, is also structured in concentric circles.
-
-Through nesting, circles gradually integrate related activities, so there is a hierarchy of purpose, complexity, and scope, but not of people or power. Each circle has full authority to make decisions within the scope of its specific purpose. Decisions are not sent upwards and cannot be overturned by members of overarching circles."
-
-<img width="644" alt="image" src="https://user-images.githubusercontent.com/77154511/147868263-e7ecd9d4-213d-4140-8449-d326eb7ce3cc.png">
-
-
-* [Holacracy.org](https://www.holacracy.org/)
-* [What is Holacracy?](https://www.youtube.com/watch?v=MUHfVoQUj54) (video, 1m48) 
-* [Here's how the 'self-management' system that Zappos is using actually works](https://www.businessinsider.com/how-zappos-self-management-system-holacracy-works-2015-6?r=US&IR=T) 
-* [Holacracy: A Radical New Approach to Management](https://www.youtube.com/watch?v=tJxfJGo-vkI) by Brian Robertson at TEDxGrandRapids (video, 18m20)
-* ["Holacracy" by Brian Robertson - BOOK SUMMARY](https://www.youtube.com/watch?v=0FmKsDf_CnI) (video, 4m45) 
-* Leadermorphosis episodes with the founder of Holacracy: [Ep. 31 Brian Robertson on Holacracy and self-managing organisations (Part 1)](https://leadermorphosis.co/ep-31-brian-roberston-on-holacracy-and-self-managing-organisations-part-1) and [Ep. 32 Brian Robertson on Holacracy and self-managing organisations (Part 2)](https://leadermorphosis.co/ep-31-brian-robertson-on-holacracy-and-self-managing-organisations-part-2)
-* [What is sociocracy?](https://www.youtube.com/watch?v=b6r3-s2p7eI) (video, 19m24) 
-* [A very brief introduction to sociocracy](https://medium.com/@Harri_Kaloudis/a-brief-introduction-to-sociocracy-a0770f220937) by Harri Kaloudis
-* [Sociocracy 3.0](https://sociocracy30.org/)
-* [Sociocracy for All](https://www.sociocracyforall.org/) 
-
-
-Continue reading in the [session 2 document.](/session-documents/2021/session-2.md)
