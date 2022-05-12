@@ -31,7 +31,7 @@ Optionally, check out some of the content coming out of The DAOist:
 
 * Coordinape
 * Collabland
-* our own tool....
+* Soonaverse-NFT-Bot by @legolars1337
 
 **DAO Tools**
 
@@ -89,7 +89,19 @@ Token-based roles, airdrops (as claims), and tipping
 
 "At the start of the epoch, each Circle member receives a number of non-divisible GIVE tokens. Members allocated their GIVE tokens to other members over the course of the epoch to reward them for their value to the organization. Members can adjust their allocations up until the end of the epoch. They can add notes to their allocations if they wish. At the end of the epoch, all allocated GIVE tokens become locked (now called GET tokens), and all unallocated GIVE tokens are burned. Budget distribution is then formulated according to the percentage of total GET tokens that each member of the circles has received."
 
+### Soonaverse-NFT-Bot
 
+* [Soonaverse-NFT-Bot](https://github.com/legolars1337/Soonaverse-NFT-Bot) by [@legolars1337](https://github.com/legolars1337)
+
+Features
+
+    Track funds of a Hot & Cold Wallet
+    Calculate Treasury/NoNFTS
+    Grant Holders of a NFT Collection a role
+    maintain NFT-Holders -> Role Members
+
+In order to get verified you have to provide your Discord user tag in your Soonaverse profile holding the NFT.  
+The List of NFT-Holders and the treasury gets updated every few minutes.
 
 ## Useful web2 software to support decision-making
 
