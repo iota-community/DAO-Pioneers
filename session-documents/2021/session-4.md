@@ -12,7 +12,7 @@ We took inspiration from [Stephen Reid](http://stephenreid.net/) ([@daoist321](h
 
 
 * Bankless DAO
-* Friends with benefits
+* Content DAO
 * Aave grants DAO
 
 
@@ -107,83 +107,7 @@ Transitioning to distributed capital flows also creates a resilient economic str
 As an added benefit, each instance of distributing capital to smaller pools, such as to each of the 13 guilds, creates experiments that run in parallel. Each guild has evolved to use their capital pools in their own ways, and the best practices have cross-pollinated, which further increases resilience across the DAO.
 
 
-## Social DAO: [Friends With Benefits](https://www.fwb.help/)
 
-
-### MANIFESTO
-
-
-### FWB is the intersection of our favorite technology and culture communities.
-
-We are a collective of unique individuals pushing for a bright future. A world in which prosperity is abundant and technology acts as a communal connective tissue. We believe in a web3 world, where data and payments are fluid and controlled by the creators. We believe in the pursuit of open knowledge for the greater good. The tools for connecting the dots are finally here.
-
-Technology is constantly evolving, and blockchain technology, a fluid, and open system is suited to help us catalyze change. Friends With Benefits are creators, rebels, artists, thinkers, and doers forming an organization to discuss and shape that future. By gathering those looking to create change, Friends With Benefits aims to take these new tools and help implement web3 in a multitude of ways.
-
-By unifying our community through a social token - [$FWB](https://etherscan.io/token/0x7d91e637589ec3bb54d8213a9e92dc6e8d12da91) - members can be confident that everyone in the group has shared skin in the game. By teasing the future of token-permissioned access, Friends With Benefits strives to showcase how a community can reach scale without diminishing quality along the way.
-
-
-
-   * [Worldbuilding with FWB](https://zine.zora.co/worldbuilding-with-fwb) 
-   * [Snapshot](https://snapshot.org/#/friendswithbenefits.eth) FWB Pro
-   * [Snapshot](https://snapshot.org/#/city.fwb.eth) FWB cities
-   * [Evolution of the FWB DAO](https://zhang.mirror.xyz/9sRa2kNDUpkWoQkWw67bJ8PczFyTSX8fotf7JOddxew)
-   * [FWB Season Four: Locally Grown — Mirror](https://fwb.mirror.xyz/DXauHLSikMA_lttUkH1tsxiIt8PFwv6gC8oXB5qgA0o)
-   * [Decentralized Autonomous Organizations and the Promise of Utopia · Feature ⟋ RA](https://ra.co/features/3914) 
-   * [Exploring Web3 Ticketing — Mirror](https://fwb.mirror.xyz/XU5_RYsow8fDbbckryr2snNyfrMV8HTJ0N39Cjkfy3s)
-   * [$FWB Gallery](https://gallery.fwb.help/)
-   * [FWB - Works In Progress](https://www.fwb.help/wip)
-   * [FWB Paris Zine](https://www.fwb.help/wip/fwb-paris)
-   * [Investing in Friends With Benefits (a DAO) - Andreessen Horowitz (a16z.com)](https://a16z.com/2021/10/27/investing-in-friends-with-benefits-a-dao/)
-
-FWB has quickly become one of the most exciting social experiments on the internet.
-
-[Friends with Benefits](https://fwb.help/) started as a private Discord server populated by our favorite thinkers and has since evolved into a global community bound together by shared values, shared incentives ([$FWB](https://www.coingecko.com/en/coins/friends-with-benefits-pro)) and shared IRL + URL experiences – all at the intersection of culture and crypto.
-
-
-
-* FWB was created by a core instigator who had a vision and began inviting close friends to a Discord.
-* As friends brought more friends in, certain contributors began to step up and play lead roles to support growth.
-* Those contributors became the first layer of Staff, incentivized by responsibility, status, and token grants.
-* The group gradually transitioned to a DAO to manage a community treasury.
-* Opportunities to get involved began to plateau as primary functions became filled and weren’t set up to scale.
-* More one-off projects were proposed but became difficult to manage.
-
-
-<img width="641" alt="image" src="https://user-images.githubusercontent.com/77154511/147893888-11eb038b-adb3-4b4f-84fb-4c3f1155aafa.png">
-<img width="642" alt="image" src="https://user-images.githubusercontent.com/77154511/147893894-ad8b60ce-7bef-4db6-9796-14400ad19d25.png">
-
-
-
-As we move forward, FWB as a whole will be defined by the strength and interdependence of its local parts.
-
-For Season 4, FWB is excited to introduce [FWB Local](https://snapshot.org/#/friendswithbenefits.eth/proposal/QmbTDzk6DdH8wB32o2RkTGXNKpZtQhgeBGpXwBwLdWwq9Q): a new token threshold that will allow community members holding 5 $FWB or more to participate in FWB Cities and FWB Events.
-
-**Cities:**
-
-FWB has established three Cities — London, New York, and Los Angeles — as the originating sub-DAOs within the FWB ecosystem, with more on the horizon.
-
-These Cities have come together, elected their own leadership, and are building the blueprint for what FWB means on a local level.
-
-From hosting local dinners to partnering with spaces and cafes as coworking spaces to pooling capital to invest in local initiatives, the possibilities behind our Cities are endless.
-
-Holding 5 $FWB grants access to all of our Cities giving members a sense of belonging wherever one travels.
-
-We believe the strongest onramp into FWB is through participating in the local community.
-
-Additionally, the FWB Local tier will grant access to all FWB #cities channels, wherein members can connect with friends in their respective areas, whether they’re at home or traveling.
-
-
-<img width="626" alt="image" src="https://user-images.githubusercontent.com/77154511/147893906-4c9e9b1b-a6d3-402a-b9ce-b2d5787472b0.png">
-
-
-
-From: [Investing in Friends With Benefits (a DAO) - Andreessen Horowitz (a16z.com)](https://a16z.com/2021/10/27/investing-in-friends-with-benefits-a-dao/) 
-
-Until recently, DAOs were used mostly to secure DeFi protocols, and DAO members consisted primarily of highly technical contributors. [FWB](https://www.fwb.help/) (Friends With Benefits) represents a new kind of DAO. Founded initially as a token-gated Discord server, FWB has become the de facto home of web3’s growing creative class. Joining FWB requires a written application, which the community itself reviews and votes on, as well as a minimum buy-in of $FWB tokens, which represent meaningful ownership in the DAO. In addition to capturing the upside of the DAO’s creative output, the tokens come with governing power over a community treasury. By aligning the incentives of the next generation of artists, creators, and builders, FWB is enabling a different kind of renaissance for the next evolution of the internet. Fittingly, they describe themselves as a digital city.
-
-Since its humble beginnings as a social experiment in September 2020, FWB has grown to nearly 2000 members, and its community has driven an outsized portion of the cultural value in web3. DAO members have launched a (now canonical)[ token-gated events app](https://fwb.mirror.xyz/XU5_RYsow8fDbbckryr2snNyfrMV8HTJ0N39Cjkfy3s), [an NFT gallery](https://gallery.fwb.help/), a web3-focused [editorial venture](https://www.fwb.help/wip), a virtual music studio, and a [real-time community dashboard](https://www.fwb.help/pulse), in addition to a series of [parties](https://www.fwb.help/wip/fwb-paris) around the world. Their next venture, FWB Cities, aims to scale the DAO’s IRL footprint, partnering with city-specific spaces, communities, and experiences to bring real-world benefits to the FWB membership. In this way, FWB Cities offers a glimpse into the very first IRL metaverse and will make the entry fee even more accessible to more people.
-
-Because of FWB, it’s now possible to envision a world where you first interact with crypto when you walk into a bar or attend your friend’s concert. Our goal is to offer guidance as FWB navigates the complexities that come with the next phase of DAO maturity. We plan to actively [participate in governance](https://a16z.com/2021/08/26/open-sourcing-our-token-delegate-program/), and we will empower key community members through delegation. We’re thrilled to be a part of the FWB community as they lead the charge toward mainstream adoption of web3.
 
 
 ## Aave Grants DAO
@@ -245,7 +169,7 @@ To help inform the types of grants which are most likely to get funded, we highl
 
 
 
-# Legal standing/incorporation of DAOs
+# Legal standing/incorporation of DAOs - MIDAO
 
 
 
@@ -377,119 +301,9 @@ Especially regarding the last option with an offshore foundation, a lot of proje
 As shown, there is no “perfect,” and no one fits all solution for DAOs.<sup><a href= “https://lrz.legal/en/the-legal-revolutionary/law-in-the-digital-economy/how-can-a-decentralized-autonomous-organization-dao-be-legally-structured#_ftn40”>40</a></sup> Until a proper legal framework for DAOs is created, which enables them to operate fully decentralized with limited liability legal recognition and easy taxation,<sup><a href= “https://lrz.legal/en/the-legal-revolutionary/law-in-the-digital-economy/how-can-a-decentralized-autonomous-organization-dao-be-legally-structured#_ftn41”>41</a></sup> every current legal setup comes with its benefits and downsides, and each DAO should seek individual legal advice, which option fits the best for its needs. Especially when a DAO Token is involved, the legal setup can get even more complicated, as a Token can often be qualified as security<sup><a href= “https://lrz.legal/en/the-legal-revolutionary/law-in-the-digital-economy/how-can-a-decentralized-autonomous-organization-dao-be-legally-structured#_ftn42”>42</a></sup> and create additional legal requirements, such as prospects or registration with the legal authorities.
 
 
-## The following texts are taken from: 
-[Mapping the Future of Legal Personality · MIT Computational Law Report](https://law.mit.edu/pub/mappingthefutureoflegalpersonality/release/1)
-
-Prior to discussing the features of DAOs that call for legal recognition, we will provide a range of interpretations and issues with each of these core features.
 
 
-### **A. Decentralization**
-
-Various points of centralization are frequently implicitly accepted or disregarded. For instance, most proposed DLT solutions operate on existing Internet infrastructure, which has various points of centralization (including, for example, Domain Name System infrastructure). Furthermore, beyond the management of digital assets with no real-world counterpart, most systems have to interact with the physical world where decentralization is hard, if not impossible, to achieve. The physical real-world often involves centralized players and entities, be it jurisdictions, legal entities, individuals or Internet-connected devices that do not provide immutable truths nor guaranteed execution of processes. Therefore, decentralization is not of a (crisp) binary nature as many purport to be, but rather a multivariate measure that may range from fully centralized to fully decentralized.
-
-
-### **B. Autonomous**
-
-The notion of autonomy, especially when applied to autonomous agents, refers to behavior without undue external interference. In other contexts, the use of the term assumes a degree of intelligence in how behavioral decisions are undertaken and an internalized notion of maximizing one’s self-interest. In contrast, the use of the term in the context of the original DAO refers to the automated nature of intermediation between the participating parties and behavior of the entity as a whole, similar to how a body attains autonomy through the aggregation of its constituent parts. As with the case of decentralization, the complexity of the logic specifying the nature of autonomy and the degree of internal representation of purpose or goal may range from simple branching logic to complex, artificially intelligent agents.
-
-
-### **C. Organization**
-
-The third distinguishing feature of DAOs is that they are an organization made up of participating parties. Although the underlying technology typically acts as an enabler of organizational behavior by providing — for instance, protocols through which decisions may be taken and carried out — in some DAOs, one may consider technological components as entities or parties forming the organization itself. For instance, such a system may effectively act as an algorithmic trader independent of the human parties themselves. Similarly, components of a DAO providing compliance functions may be seen as parties in the organization with a specific role. Given the spirit in which many DAOs have been created — basing their design on that of public and permissionless DLTs, with parties corresponding to equal peers acting as part of a network — one typically finds flat organizations in which the parties have similar rights of participation. However, this is not necessarily the case, and the automated nature of the decision-making protocol may (and has been) leveraged for an arbitrarily fine-grained way of making decisions. This organizational decision-making protocol can, in fact, be argued to be a distinguishing feature of such organizations.
-
-
-### **The Malta Model: Innovative Technologie arrangements (ITA)**
-
-
-### **Legal Personalities:**
-
-As a construct, legal personality exists as a type of exchange — certain legal protections are granted in favor of a certification of compliance with some governing rule.
-
-
-#### **_Name_**
-
-Every legal organization is required to have a name so that it is able to be identified and distinguished from other organizations and even from the people involved in it.
-
-
-#### **_Address_**
-
-Every legal organization is required to have a registered office or place of incorporation. Current laws have recognized that the seat of incorporation or registered office could differ from the principal place of business. 
-
-
-#### **_Purposes_**
-
-Legal organizations require intent and purpose. The purpose must be lawful and consistent with public policy. The same would apply to software if it was to have a legal personality. The purposes can be multiple and varied, ranging from charity to commerce or from passive holding to active trading. The purpose should be explicit and clear.
-
-**_capital_**
-
-For certain legal organizations, capital is a central feature. Typically, company law focuses on trading contexts and centers on capital, including the raising and retention of capital and insolvency considerations. In the digital context, this leads to an interesting question: how should the role of capital be addressed if the core asset of ITAs is software?
-
-**_governance_**
-
-This point is where traditional organizations diverge from DAOs and ITAs. Traditional legal organizations have a board of governors. ITAs, on the other hand, currently are not required to have a certain body of governance, though it is worth noting that, as a practical matter, ITAs indeed do have governance mechanisms.
-
-The direction automated governance is taking to date suggests a need to balance between the varying levels of human support and the need to uphold the integrity of the design. 
-
-With the knowledge of how liability currently operates, there should be clear distinctions between the responsibilities of the decentralized, automated, and human-specific interactions. This will ensure that humans involved with ITAs carry out designated and defined functionalities and, importantly, are not liable for situations that extend beyond their own engagements.
-
-
-#### **_Ownership and control_**
-
-Typically with centralized organizations, ownership is vested in identifiable persons. For charitable foundations, however, the requirement of private owners is not necessary. Instead, there are identifiable controllers featured in legal organizations as administrators.
-
-
-#### **_Patrimony_**
-
-Every legal person has a distinct patrimony, which includes everything one owns and intangible rights. Creating a legal organization confers an organizational right to patrimony in such a way that the patrimony of an organization then includes the tangible and intangible ownership interests of the organization. The principle is much the same for an organization represented as a technology but merits additional discussion.
-
-
-### **Conclusion**
-
-Just as other forms of legal personality have been granted to non-human entities, there should be a new form of legal personality for DAOs. Existing literature has demonstrated that certain rights are required for certain protections.
-
-Granting a DAO legal protections would have obvious benefits, including:
-Bringing transparency to a process that has been stained with opacity and confusion.
-Enabling new forms of businesses to provide new types of value to consumers.
-Ushering in a new era of economic resilience.
-And creating regulatory frameworks that are as efficient as the technologies, they seek to regulate.
-While such an idea is transformational, it is not without risk. Absent basic protections and safeguards, these new technologies could create more problems than they solve.
-
-The question then becomes, how do we create a new type of container for the legal personality that encapsulates all of the good these technologies are capable of and none of the bad? As outlined in this paper, the two-fold answer is based on the notion of a basic exchange. Certain rights and assurances are provided in favor of certain protections. 
-
-First, we must define these new legal persons. In our case, we are talking about organizations that have traditionally existed under corporate law. However, a distinction here is critical. The organizations we are describing have certain qualifying characteristics, particularly related to governance, that needs to be specified to preserve both trust and flexibility.
-
-For new, technology-enabled business organizations, the aim should be to better manage risk through limitations of liability that can be granted through the state. Corporations law the world round requires a similar set of features for the associated protections, including name, address, purpose, capital, governance, ownership, and control, patrimony, winding up, regulation, and registration.
-
-As these new technologically-enabled organizations operate using a structure that enables them to do things that classic organizations simply cannot, the most astute regulators looking at these new forms of legal personality will not only catalog those foundational characteristics of legal personality that are required for these new entities, but will also leverage the natural abilities of the unique ability of these new technologies. In the case of DAOs, this would include a transparent and accurate list of different records that are maintained, specification of governance protocols, acknowledgment of the opportunities to preserve trust offered by new technologies, and a recognition of those areas requiring further accountability.
-
-Blockchain and DAOs are exciting because they represent an opportunity to revisit the way society itself is organized; in the same way, they are scary because of the unknowns associated with how these new technologies will fit into the world around us. As a result, we are left with two choices. We can ignore this opportunity to act, remain content with the landscape as it is, or we can choose to try, learn, and do better.
-
-
-## The Rise of Decentral Autonomous Organisations
-
-From[ https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
-
-The ideal design of DAOs is still being explored, exposing challenging governance questions which may ultimately stymie their growth and development. Undefined DAOs are not formally recognized and do not fit neatly into existing business associations, making it difficult for DAOs to interact with traditional business entities and impose personal risk on members. Undefined In certain instances, interests in DAOs may be difficult to classify, raising regulatory concerns when it comes to securities laws.
-
-
-<img width="524" alt="image" src="https://user-images.githubusercontent.com/77154511/147894004-0a71d6c0-a68f-4103-8133-64dff2277c69.png">
-
-
-
-_Participatory DAOs_ are being used to engage in traditional commercial endeavors—like venture capital financing—and are being explored to manage open source technology involving a smart contract running on the Ethereum blockchain. 
-
-The latter form of _participatory DAO_ is perhaps the most significant. Smart contracts, by their nature, are hard to modify and change once deployed to a blockchain. They are tamper-resistant and can be designed to be autonomous, creating regulatory challenges and making it difficult for users of the software to modify the smart contract if there is a bug, issue, or regulatory concern.
-
-By relying on a DAO, the initial developers of the smart contract-based protocol can transfer ongoing decision-making to a disparate group of the software’s users and supporters. Members of these DAOs generally have the power to set parameters needed by the underlying smart contract and also have the ability to update the smart contract itself. Governance decisions occur through a vote measured by a “token” distributed to users of the smart contract and the smart contract’s initial developers and sometimes those developers’ investors.
-
-Beyond questions of governance, DAOs lack any formal legal recognition, creating potential liabilities for DAO members and exposing members to the organization’s liabilities and responsibilities. DAOs also remain outside of traditional systems, limiting the ability of these organizations to transact with more traditional legal enterprises.
-
-One of the longstanding benefits of creating a legal entity, whether a corporation or limited liability company, is the ability to protect the personal assets of an organization’s owners from creditors. DAOs, by default, do not enjoy these benefits because the legal system does not recognize these structures—by default—as a legal entity eligible for a limited liability regime.
-
-For instance, in the U.S., DAOs formed for the purpose of making a profit likely would be deemed a “general partnership” and consequently lack the ability to shield members’ assets if the organization injures a third party or is unable to pay its creditors. If characterized as a general partnership, DAOs may struggle to attract members, especially those with significant assets. Large businesses, institutional investors, and other regulated commercial entities may be reluctant to invest or otherwise support a DAO for fear that membership would put other assets at risk.
-
-
-## Legal DAOs
+## Legal DAOs - updates LexDAO + Kaly DAO
 
 
 ### Ricardian LLC (Delaware)
@@ -508,18 +322,7 @@ For instance, in the U.S., DAOs formed for the purpose of making a profit likely
 * [Ricardian LLC docs](https://ricardian.gitbook.io/ricardian-llc/)
 
 
-### Otoco (Delaware or Wyoming)
 
-<img width="494" alt="image" src="https://user-images.githubusercontent.com/77154511/147894023-784097e6-d2d1-4fb6-bc01-2196c44c2127.png">
-
-
-* [Otoco - Automated Company Assembly on Blockchain](https://otoco.io/) 
-* [Our Vision for OtoCo: From Product to Platform](https://otonomos.substack.com/p/part-i-our-vision-for-otoco-from)
-* [The Otonomist](https://otonomos.substack.com/)
-* [OtoCo documentation library](https://otonomos.gitbook.io/otoco/)
-* [Otonomos.com - In the Beginning There Was Incorporation](https://otonomos.com/)
-
-“Simply use your Ethereum wallet to spin up a Delaware or Wyoming LLC by sending 39 DAI to the OtoCo company assembly smart contract. Activation is instant without loss of legal validity.”
 
 More on legal DAOs:
 
