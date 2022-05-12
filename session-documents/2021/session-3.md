@@ -23,38 +23,25 @@ Optionally, check out some of the content coming out of The DAOist:
 
 ### **DAO Operating Systems**
 
-*Soonaverse
-
-**Recognizing Contribution**
-
-
-
-* Coordinape
-* Collabland
-* Soonaverse-NFT-Bot by @legolars1337
+* Soonaverse
 
 **DAO Tools**
 
-
-
+* Collabland
+* Soonaverse-NFT-Bot by @legolars1337
+* Coordinape
 * Snapshot
-* Tally
 * Gnosis / Multisig
 * Sesh
+* Tally
 
 
 ## DAO Operating - Systems
 
-
-
 * [A comparative analysis of the platforms for decentralized autonomous organizations in the Ethereum blockchain](https://jisajournal.springeropen.com/articles/10.1186/s13174-021-00139-6#Tab5)
 * [Aragon, DAOStack, Colony, Moloch](https://kronosapiens.github.io/blog/2019/06/16/aragon-daostack-colony-moloch.html)
 
-
-
-
-# Recognizing contributions
-
+## DAO Tools
 
 ### Collab.land
 
@@ -70,7 +57,19 @@ Token-based roles, airdrops (as claims), and tipping
 
 <img width="644" alt="image" src="https://user-images.githubusercontent.com/77154511/147893308-c026c808-2325-4f9f-8d5e-7d7754251904.png">
 
+### Soonaverse-NFT-Bot
 
+* [Soonaverse-NFT-Bot](https://github.com/legolars1337/Soonaverse-NFT-Bot) by [@legolars1337](https://github.com/legolars1337)
+
+Features
+
+    Track funds of a Hot & Cold Wallet
+    Calculate Treasury/NoNFTS
+    Grant Holders of a NFT Collection a role
+    maintain NFT-Holders -> Role Members
+
+In order to get verified you have to provide your Discord user tag in your Soonaverse profile holding the NFT.  
+The List of NFT-Holders and the treasury gets updated every few minutes.
 
 ### Coordinape
 
@@ -89,29 +88,8 @@ Token-based roles, airdrops (as claims), and tipping
 
 "At the start of the epoch, each Circle member receives a number of non-divisible GIVE tokens. Members allocated their GIVE tokens to other members over the course of the epoch to reward them for their value to the organization. Members can adjust their allocations up until the end of the epoch. They can add notes to their allocations if they wish. At the end of the epoch, all allocated GIVE tokens become locked (now called GET tokens), and all unallocated GIVE tokens are burned. Budget distribution is then formulated according to the percentage of total GET tokens that each member of the circles has received."
 
-### Soonaverse-NFT-Bot
-
-* [Soonaverse-NFT-Bot](https://github.com/legolars1337/Soonaverse-NFT-Bot) by [@legolars1337](https://github.com/legolars1337)
-
-Features
-
-    Track funds of a Hot & Cold Wallet
-    Calculate Treasury/NoNFTS
-    Grant Holders of a NFT Collection a role
-    maintain NFT-Holders -> Role Members
-
-In order to get verified you have to provide your Discord user tag in your Soonaverse profile holding the NFT.  
-The List of NFT-Holders and the treasury gets updated every few minutes.
-
-## Useful web2 software to support decision-making
-
-
-##DAO Tools
-
 
 ### Snapshot
-
-
 
 * [Snapshot](https://snapshot.org/#/)
 * [Home - Snapshot](https://docs.snapshot.org/) Documentation
@@ -122,22 +100,14 @@ The List of NFT-Holders and the treasury gets updated every few minutes.
 <img width="641" alt="image" src="https://user-images.githubusercontent.com/77154511/147893402-74c218b7-d034-4c06-a8c0-e4eafcbffd58.png">
 <img width="637" alt="image" src="https://user-images.githubusercontent.com/77154511/147893409-b29822d1-e448-4c1c-b15a-87d91eeb2fc7.png">
 
-
-
-
-### Gnosis / multisig
-
-
+## Gnosis / multisig
 
 * [Overview - Gnosis Safe (gnosis-safe.io)](https://gnosis-safe.io/)
 * [👛 Multisig transactions with Gnosis Safe | by Federico Ulfo | Gauntlet | Medium](https://medium.com/gauntlet-networks/multisig-transactions-with-gnosis-safe-f5dbe67c1c2d)
 * [Protofire Deploys a Fork of Gnosis Safe Multisig into Moonriver to Enforce Security | by ProtoFire.io | ProtoFire Blog | Oct 2021 | Medium](https://medium.com/protofire-blog/protofire-deploys-a-fork-of-gnosis-safe-multisig-into-moonriver-to-enforce-security-13e8630d9569#:~:text=Gnosis%20Safe%20Multisig%20is%20a%20fully%20customized%20crypto,assets%20stored.%20How%20Gnosis%20Safe%20Multisig%20can%20help)
 * [Setting up Gnosis Multisignature Wallets - EWF - Confluence (atlassian.net)](https://energyweb.atlassian.net/wiki/spaces/EWF/pages/557908009/Setting+up+Gnosis+Multisignature+Wallets)
 
-
 ### sesh
-
-
 
 * [sesh](https://sesh.fyi/)
 
