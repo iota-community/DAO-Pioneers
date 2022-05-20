@@ -1,8 +1,8 @@
 # IOTA DAO Pioneers
 
-November/December 2021
+May/June 2022
 
-A four to five-week learning circle on the future of cooperation.
+A two to trhee-week learning circle on the future of cooperation.
 
 We took inspiration from [Stephen Reid](http://stephenreid.net/) ([@daoist321](https://twitter.com/daoist321)) "How to DAO" course, but harmonized the content and adjusted it to the needs of our IOTA community.
 
@@ -14,9 +14,9 @@ Welcome to the IOTA DAO Pioneers learning circle!
 First of all, thank you all. So much interest in the topic is great to see and gives us confidence that we can achieve great things together! So give yourself some kudos for being part of this! 
 
 
-We have set this up to give our first round of interested DAOists in IOTA a way of preparing, learning, and understanding the basics and tools needed to start and run a DAO on IOTA successfully. We hope that some of you will begin your own DAOs together with us, and we will all together be able to learn from these first DAO prototypes to develop a fantastic DAO Framework for the IOTA Mainnet.
+We have set this up to give DAOists in the ecosystem a way of preparing, learning, and understanding the basics and tools needed to start and run a DAO successfully. We hope that some of you will begin your own DAOs together with us, and we will all together be able to learn from these DAOs to develop a fantastic DAO Framework.
 
-We have opened an #iota-dao-pioneers channel in the IOTA Discord, where we can chat about this course. You all will get your "DAO-Pioneer" role and gain access to this channel.
+We have opened an #iota-dao-pioneers channel in the IOTA Discord, where we can chat about this course. You shall get your "DAO-Pioneer Class of 2022" role in the #get-your-badges channel.
 
 A reminder: You will be sent prep tasks at least a few days before each Friday session (allow 1 hour), and homework at the end of each session (allow 1 hour). To get the most out of the course, you should also set aside at least 2 hours per session to go back through the notes, read some of the links provided and make sure you've understood everything we've covered. So that's a minimum of 6 hours per week for maximum benefit (1-hour prep, 2 hours live, 2 hours revision, 1-hour homework). \
 Additionally, Antonio and Holger will try to be available every day for a minimum of one hour (Antonio European time zone, Holger American evening/Asian morning) for a casual collective learning chat where we can explore some of the content we provide in the links here together.
